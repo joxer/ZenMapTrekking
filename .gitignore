@@ -20,6 +20,8 @@
 # Ignore Byebug command history file.
 .byebug_history
 =======
+=======
+>>>>>>> 35d5ab95480701f8485acef4aa910ae03e6e6f6a
 *.rbc
 capybara-*.html
 .rspec
