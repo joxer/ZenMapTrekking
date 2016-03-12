@@ -1,0 +1,32 @@
+<div class="container" id="map-container">
+  <div class="row">
+    <div class="column">
+      <leaflet id="mymap" lf-center="center" paths="paths" ></leaflet>
+    </div>
+  </div>
+
+
+
+  <div class="row under-map">
+    <div class="column column-30"></div>
+    <div class="column column-40 ">
+      <div id="text-up-button">
+
+          Upload GpxDataFile Here
+
+      </div>
+
+
+      <div class="button button-width-full"  ngf-select="upload($file)" ng-model="file" name="file" ngf-pattern="'*.gpx'"
+     ngf-accept="'*.gpx'" ngf-max-size="20MB" ngf-min-height="100"
+     ngf-resize="{width: 100, height: 100}">Select</div>
+    </div>
+    <div class="column column-30"></div>
+  </div>
+
+
+  <div id="maps-list">
+    <oldmaps-ul></oldmaps-ul>
+  </div>
+
+</div>

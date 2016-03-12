@@ -1,0 +1,1990 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://geocaching.com.au/geocache/1 http://geocaching.com.au/geocache/1/geocache.xsd"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     version="1.0"
+     creator="www.opencaching.de">
+  <desc>Geocache</desc>
+  <author>Geocaching Australia</author>
+  <url>http://www.opencaching.de</url>
+  <urlname>www.opencaching.de</urlname>
+  <time>2008-01-26T18:25:19Z</time>
+
+	<wpt lat="53.40200" lon="9.86368">
+	<time>2007-02-22T00:00:00Z</time>
+	<name>OC2F6D</name>
+	<desc>Die Pyramide des Königs</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=115202</url>
+	<urlname>Die Pyramide des Königs</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Archived" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Die Pyramide des Königs</name>
+			<owner>equipman</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Micro</container>
+			<difficulty>2.0</difficulty>
+			<terrain>1.5</terrain>
+			<summary html="false">Das Bauwerk muss nicht erklettert werden,es brauchen keine Steine entfernt werden.Der Cache ist nicht im oder am Bauwerk</summary>
+			<description html="false">&lt;p&gt;Parken &amp;quot;Kurz &amp;amp; Schmerzlos&amp;quot; bei N53&amp;deg; 24. 048&amp;nbsp; E009&amp;deg; 51.830&lt;/p&gt;&lt;p&gt;Parken &amp;quot;Fitnesstest&amp;quot; bei N53&amp;deg; 24.120&amp;nbsp; E009&amp;deg; 52.158&lt;/p&gt;&lt;p&gt;Vorsicht &amp;quot;wilde&amp;quot; Tretminen im n&amp;auml;heren Umfeld.&lt;/p&gt;&lt;p&gt;Die Geschichte der Location :&lt;/p&gt;&lt;h1 class=&quot;firstHeading&quot;&gt;Georg V. (Hannover)&lt;/h1&gt;&lt;div id=&quot;bodyContent&quot;&gt;&lt;h3 id=&quot;siteSub&quot;&gt;aus Wikipedia, der freien Enzyklop&amp;auml;die&lt;/h3&gt;&lt;div id=&quot;jump-to-nav&quot;&gt;Wechseln zu: &lt;a href=&quot;/#column-one&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Navigation&lt;/font&gt;&lt;/a&gt;, &lt;a href=&quot;/#searchInput&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Suche&lt;/font&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Georg V.&lt;/strong&gt;, K&amp;ouml;nig von Hannover und 2. &lt;a href=&quot;wiki/Herzog_von_Cumberland&quot; title=&quot;Herzog von Cumberland&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Herzog von Cumberland&lt;/font&gt;&lt;/a&gt; und Teviotdale (* &lt;a href=&quot;wiki/27._Mai&quot; title=&quot;27. Mai&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;27. Mai&lt;/font&gt;&lt;/a&gt; &lt;a href=&quot;wiki/1819&quot; title=&quot;1819&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1819&lt;/font&gt;&lt;/a&gt; in &lt;a href=&quot;wiki/Berlin&quot; title=&quot;Berlin&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Berlin&lt;/font&gt;&lt;/a&gt;; &amp;dagger; &lt;a href=&quot;wiki/12._Juni&quot; title=&quot;12. Juni&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;12. Juni&lt;/font&gt;&lt;/a&gt; &lt;a href=&quot;wiki/1878&quot; title=&quot;1878&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1878&lt;/font&gt;&lt;/a&gt; in &lt;a href=&quot;wiki/Paris&quot; title=&quot;Paris&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Paris&lt;/font&gt;&lt;/a&gt;) war der letzte K&amp;ouml;nig des &lt;a href=&quot;wiki/K%C3%B6nigreich_Hannover&quot; title=&quot;K&amp;ouml;nigreich Hannover&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;K&amp;ouml;nigreichs Hannover&lt;/font&gt;&lt;/a&gt;.&lt;/p&gt;&lt;div class=&quot;thumb tright&quot;&gt;&lt;div class=&quot;thumbinner&quot; style=&quot;width: 202px&quot;&gt;&lt;a href=&quot;wiki/Bild:Georgv.jpg&quot; title=&quot;Georg V. von Hannover&quot; class=&quot;internal&quot;&gt;&lt;img longdesc=&quot;wiki/Bild:Georgv.jpg&quot; class=&quot;thumbimage&quot; src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Georgv.jpg/200px-Georgv.jpg&quot; alt=&quot;Georg V. von Hannover&quot; width=&quot;200&quot; height=&quot;298&quot; /&gt;&lt;/a&gt; &lt;div class=&quot;thumbcaption&quot;&gt;&lt;div class=&quot;magnify&quot; style=&quot;float: right&quot;&gt;&lt;a href=&quot;wiki/Bild:Georgv.jpg&quot; title=&quot;vergr&amp;ouml;&amp;szlig;ern&quot; class=&quot;internal&quot;&gt;&lt;img src=&quot;skins-1.5/common/images/magnify-clip.png&quot; alt=&quot;&quot; width=&quot;15&quot; height=&quot;11&quot; /&gt;&lt;/a&gt;&lt;/div&gt;Georg V. von Hannover&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;table border=&quot;0&quot; class=&quot;toc&quot; summary=&quot;Inhaltsverzeichnis&quot; id=&quot;toc&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;toctitle&quot;&gt;&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;&lt;span class=&quot;toctoggle&quot;&gt;[&lt;a id=&quot;togglelink&quot; class=&quot;internal&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Verbergen&lt;/font&gt;&lt;/a&gt;]&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li class=&quot;toclevel-1&quot;&gt;&lt;a href=&quot;/#Leben&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;span class=&quot;tocnumber&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;toctext&quot;&gt;Leben&lt;/span&gt;&lt;/font&gt;&lt;/a&gt; &lt;/li&gt;&lt;li class=&quot;toclevel-1&quot;&gt;&lt;a href=&quot;/#Nachkommen&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;span class=&quot;tocnumber&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;toctext&quot;&gt;Nachkommen&lt;/span&gt;&lt;/font&gt;&lt;/a&gt; &lt;/li&gt;&lt;li class=&quot;toclevel-1&quot;&gt;&lt;a href=&quot;/#Ver.C3.B6ffentlichungen&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;span class=&quot;tocnumber&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;toctext&quot;&gt;Ver&amp;ouml;ffentlichungen&lt;/span&gt;&lt;/font&gt;&lt;/a&gt; &lt;/li&gt;&lt;li class=&quot;toclevel-1&quot;&gt;&lt;a href=&quot;/#Weblinks&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;span class=&quot;tocnumber&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;toctext&quot;&gt;Weblinks&lt;/span&gt;&lt;/font&gt;&lt;/a&gt; &lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;a id=&quot;Leben&quot; name=&quot;Leben&quot; title=&quot;Leben&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;&lt;span class=&quot;mw-headline&quot;&gt;Leben&lt;/span&gt; &lt;span style=&quot;font-weight: normal; font-size: x-small; margin-left: 0px; cssfloat: none&quot; class=&quot;editsection&quot;&gt;&lt;font size=&quot;1&quot;&gt;[&lt;/font&gt;&lt;a href=&quot;w/index.php?title=Georg_V._%28Hannover%29&amp;amp;action=edit&amp;amp;section=1&quot; title=&quot;Abschnitt bearbeiten: Leben&quot;&gt;&lt;font size=&quot;1&quot; color=&quot;#0000ff&quot;&gt;Bearbeiten&lt;/font&gt;&lt;/a&gt;&lt;font size=&quot;1&quot;&gt;]&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Prinz Georg Friedrich Alexander Karl Ernst August, &lt;a href=&quot;wiki/Hosenbandorden&quot; title=&quot;Hosenbandorden&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;KG&lt;/font&gt;&lt;/a&gt;, war der Sohn des K&amp;ouml;nigs &lt;a href=&quot;wiki/Ernst_August_%28Hannover%29&quot; title=&quot;Ernst August (Hannover)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Ernst August&lt;/font&gt;&lt;/a&gt; von Hannover und seiner Frau &lt;a href=&quot;wiki/Friederike_von_Mecklenburg-Strelitz&quot; title=&quot;Friederike von Mecklenburg-Strelitz&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Friederike von Mecklenburg-Strelitz&lt;/font&gt;&lt;/a&gt;. Er war ein Cousin ersten Grades der K&amp;ouml;nigin &lt;a href=&quot;wiki/Victoria_%28Vereinigtes_K%C3%B6nigreich%29&quot; title=&quot;Victoria (Vereinigtes K&amp;ouml;nigreich)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Victoria&lt;/font&gt;&lt;/a&gt; und verbrachte seine Kindheit in Berlin und Gro&amp;szlig;britannien. Nach dem Ende der &lt;a href=&quot;wiki/Personalunion&quot; title=&quot;Personalunion&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Personalunion&lt;/font&gt;&lt;/a&gt; zwischen Gro&amp;szlig;britannien und Hannover und der Thronbesteigung seines Vaters in Hannover wurde er Kronprinz, blieb aber als legitimer m&amp;auml;nnlicher Nachfahre K&amp;ouml;nig &lt;a href=&quot;wiki/Georg_III._%28Vereinigtes_K%C3%B6nigreich%29&quot; title=&quot;Georg III. (Vereinigtes K&amp;ouml;nigreich)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Georgs III.&lt;/font&gt;&lt;/a&gt; Mitglied der englischen K&amp;ouml;nigsfamilie und Zweiter in der englischen Thronfolge - bis zur Geburt des ersten Kindes K&amp;ouml;nigin Victorias, &lt;a href=&quot;wiki/Victoria_von_Sachsen-Coburg_und_Gotha&quot; title=&quot;Victoria von Sachsen-Coburg und Gotha&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Prinzessin Victoria&lt;/font&gt;&lt;/a&gt; im Jahre &lt;a href=&quot;wiki/1841&quot; title=&quot;1841&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1841&lt;/font&gt;&lt;/a&gt;. Obwohl er bereits in jungen Jahren erblindet war, das Augenlicht auf dem linken Auge verlor er durch eine Krankheit und das Augenlicht auf dem rechten Auge 1833 durch einen Unfall, und deswegen Zweifel an seiner Eignung aufkamen, setzte sein Vater sich daf&amp;uuml;r ein, dass er K&amp;ouml;nig werden sollte, indem er &lt;a href=&quot;wiki/1842&quot; title=&quot;1842&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1842&lt;/font&gt;&lt;/a&gt; anordnete, dass die vom Thronfolger zu vollziehende Unterzeichnung von Regierungsakten in Gegenwart von vereidigten Zeugen zu geschehen hatte. Trotzdem versuchte der K&amp;ouml;nig Zeit seines Lebens seine Blindheit in der &amp;Ouml;ffentlichkeit zu verbergen. Georg, der seinen Vater schon w&amp;auml;hrend einer l&amp;auml;ngeren Abwesenheit in England &lt;a href=&quot;wiki/1843&quot; title=&quot;1843&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1843&lt;/font&gt;&lt;/a&gt; vertreten hatte, folgte ihm nach dessen Tod am 18. November &lt;a href=&quot;wiki/1851&quot; title=&quot;1851&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1851&lt;/font&gt;&lt;/a&gt; als K&amp;ouml;nig von Hannover, 2. &lt;a href=&quot;wiki/Herzog_von_Cumberland&quot; title=&quot;Herzog von Cumberland&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Herzog von Cumberland und Teviotdale&lt;/font&gt;&lt;/a&gt; und Earl of Armagh.&lt;/p&gt;&lt;div class=&quot;thumb tright&quot;&gt;&lt;div class=&quot;thumbinner&quot; style=&quot;width: 202px&quot;&gt;&lt;a href=&quot;wiki/Bild:Georg_V._Hannover.jpg&quot; title=&quot;Georg V. K&amp;ouml;nig von Hannover&quot; class=&quot;internal&quot;&gt;&lt;img longdesc=&quot;wiki/Bild:Georg_V._Hannover.jpg&quot; class=&quot;thumbimage&quot; src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Georg_V._Hannover.jpg/200px-Georg_V._Hannover.jpg&quot; alt=&quot;Georg V. K&amp;ouml;nig von Hannover&quot; width=&quot;200&quot; height=&quot;275&quot; /&gt;&lt;/a&gt; &lt;div class=&quot;thumbcaption&quot;&gt;&lt;div class=&quot;magnify&quot; style=&quot;float: right&quot;&gt;&lt;a href=&quot;wiki/Bild:Georg_V._Hannover.jpg&quot; title=&quot;vergr&amp;ouml;&amp;szlig;ern&quot; class=&quot;internal&quot;&gt;&lt;img src=&quot;skins-1.5/common/images/magnify-clip.png&quot; alt=&quot;&quot; width=&quot;15&quot; height=&quot;11&quot; /&gt;&lt;/a&gt;&lt;/div&gt;Georg V. K&amp;ouml;nig von Hannover&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;Von seinem Vater und seinem Onkel m&amp;uuml;tterlicherseits, &lt;a href=&quot;wiki/Karl_Friedrich_von_Mecklenburg-Strelitz&quot; title=&quot;Karl Friedrich von Mecklenburg-Strelitz&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Karl Friedrich von Mecklenburg-Strelitz&lt;/font&gt;&lt;/a&gt; (&lt;a href=&quot;wiki/1785&quot; title=&quot;1785&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1785&lt;/font&gt;&lt;/a&gt;-&lt;a href=&quot;wiki/1837&quot; title=&quot;1837&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1837&lt;/font&gt;&lt;/a&gt;), einem der einflussreichsten M&amp;auml;nner am preu&amp;szlig;ischen Hof, hatte er eine feudale und autokratische Staatsauffassung &amp;uuml;bernommen. Unterst&amp;uuml;tzt von seinem G&amp;uuml;nstling und Minister, &lt;a href=&quot;w/index.php?title=Wilhelm_von_Borries&amp;amp;action=edit&quot; title=&quot;Wilhelm von Borries&quot; class=&quot;new&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Graf Borries&lt;/font&gt;&lt;/a&gt;, ging er bald vom liberalen Kurs ab und hob &lt;a href=&quot;wiki/1855&quot; title=&quot;1855&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1855&lt;/font&gt;&lt;/a&gt; die liberale Verfassung, die sein Vater als Folge der Revolution von &lt;a href=&quot;wiki/1848&quot; title=&quot;1848&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1848&lt;/font&gt;&lt;/a&gt; hatte erlassen m&amp;uuml;ssen, wieder auf, er konnte sich aber mit seiner reaktion&amp;auml;ren Politik auf Dauer nicht durchsetzen. W&amp;auml;hrend seiner f&amp;uuml;nfzehnj&amp;auml;hrigen Regierung lag er in h&amp;auml;ufigem Streit mit dem hannoverschen Landtag.&lt;/p&gt;&lt;p&gt;Im Gegensatz zu seinem Vater galten seine au&amp;szlig;enpolitischen Sympathien &lt;a href=&quot;wiki/%C3%96sterreich&quot; title=&quot;&amp;Ouml;sterreich&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;Ouml;sterreich&lt;/font&gt;&lt;/a&gt; statt &lt;a href=&quot;wiki/Preu%C3%9Fen&quot; title=&quot;Preu&amp;szlig;en&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Preu&amp;szlig;en&lt;/font&gt;&lt;/a&gt; gegen das er eine tiefe Abneigung hatte, besonders seit Preu&amp;szlig;en ihn zu einem B&amp;uuml;ndnis gegen &amp;Ouml;sterreich hatte zwingen wollen, was er als Eingriff in seine - mit &amp;auml;ngstlicher Eifersucht geh&amp;uuml;tete - Souver&amp;auml;nit&amp;auml;t betrachtete. Diese Abneigung gegen Preu&amp;szlig;en trat in der Bundesreformfrage, in der Angelegenheit wegen des K&amp;uuml;stenschutzes, in der Zollvereinskrise und bei manchem anderen Anlass zu Tage. Gegen den Beschluss seines Landtags weigerte er sich daher auch, der preu&amp;szlig;ischen Forderung zur Neutralit&amp;auml;t und damit zum Bruch mit dem &lt;a href=&quot;wiki/Deutscher_Bund&quot; title=&quot;Deutscher Bund&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Deutschen Bund&lt;/font&gt;&lt;/a&gt; im bevorstehenden &lt;a href=&quot;wiki/Deutscher_Krieg&quot; title=&quot;Deutscher Krieg&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Deutschen Krieg&lt;/font&gt;&lt;/a&gt; zuzustimmen, sondern schloss sich den anderen loyalen Mittelstaaten an. Nach der Kapitulation infolge der taktisch erfolgreichen &lt;a href=&quot;wiki/Schlacht_bei_Langensalza&quot; title=&quot;Schlacht bei Langensalza&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Schlacht bei Langensalza&lt;/font&gt;&lt;/a&gt; wurde daraufhin das K&amp;ouml;nigreich Hannover von preu&amp;szlig;ischen Truppen besetzt und am 20. September 1866 annektiert. Der K&amp;ouml;nig floh nach &lt;a href=&quot;wiki/Wien&quot; title=&quot;Wien&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Wien&lt;/font&gt;&lt;/a&gt;, seine Familie folgte ihm kurze Zeit sp&amp;auml;ter.&lt;/p&gt;&lt;div class=&quot;thumb tleft&quot;&gt;&lt;div class=&quot;thumbinner&quot; style=&quot;width: 202px&quot;&gt;&lt;a href=&quot;wiki/Bild:Georg_V.jpg&quot; title=&quot;Georg V. K&amp;ouml;nig von Hannover&quot; class=&quot;internal&quot;&gt;&lt;img longdesc=&quot;wiki/Bild:Georg_V.jpg&quot; class=&quot;thumbimage&quot; src=&quot;http://upload.wikimedia.org/wikipedia/de/thumb/e/ed/Georg_V.jpg/200px-Georg_V.jpg&quot; alt=&quot;Georg V. K&amp;ouml;nig von Hannover&quot; width=&quot;200&quot; height=&quot;291&quot; /&gt;&lt;/a&gt; &lt;div class=&quot;thumbcaption&quot;&gt;&lt;div class=&quot;magnify&quot; style=&quot;float: right&quot;&gt;&lt;a href=&quot;wiki/Bild:Georg_V.jpg&quot; title=&quot;vergr&amp;ouml;&amp;szlig;ern&quot; class=&quot;internal&quot;&gt;&lt;img src=&quot;skins-1.5/common/images/magnify-clip.png&quot; alt=&quot;&quot; width=&quot;15&quot; height=&quot;11&quot; /&gt;&lt;/a&gt;&lt;/div&gt;Georg V. K&amp;ouml;nig von Hannover&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;Der exilierte Georg V. weigerte sich bis zum Schluss, seine Anspr&amp;uuml;che auf das K&amp;ouml;nigreich Hannover aufzugeben und die &lt;a href=&quot;wiki/Annexion&quot; title=&quot;Annexion&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Annexion&lt;/font&gt;&lt;/a&gt; anzuerkennen. Er appellierte vergeblich an die europ&amp;auml;ischen Gro&amp;szlig;m&amp;auml;chte und gab im Pariser Exil die Zeitschrift &amp;quot;Situation&amp;quot; heraus, die t&amp;auml;glich in den heftigsten Ausdr&amp;uuml;cken die neue Ordnung der Dinge in Deutschland angriff und den Hass Frankreichs gegen ein preu&amp;szlig;ischer werdendes Deutschland sch&amp;uuml;rte. &lt;a href=&quot;wiki/1867&quot; title=&quot;1867&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1867&lt;/font&gt;&lt;/a&gt; lie&amp;szlig; er mit Hilfe des Schriftstellers &lt;a href=&quot;w/index.php?title=Oskar_Meding&amp;amp;action=edit&quot; title=&quot;Oskar Meding&quot; class=&quot;new&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Oskar Meding&lt;/font&gt;&lt;/a&gt; in Frankreich eine Privatarmee aus hannoverschen Fl&amp;uuml;chtlingen aufstellen, um im Falle eines deutsch-franz&amp;ouml;sischen Krieges an der Seite Frankreichs sein Reich zur&amp;uuml;ck zu erobern (&lt;a href=&quot;wiki/Welfenlegion&quot; title=&quot;Welfenlegion&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Welfenlegion&lt;/font&gt;&lt;/a&gt;), was schlie&amp;szlig;lich mit dazu f&amp;uuml;hrte, dass Preu&amp;szlig;en eine bereits zugesagte finanzielle Entsch&amp;auml;digung aussetzte und sein Privatverm&amp;ouml;gen beschlagnahmte (&lt;a href=&quot;wiki/Welfenfonds&quot; title=&quot;Welfenfonds&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Welfenfonds&lt;/font&gt;&lt;/a&gt;).&lt;/p&gt;&lt;p&gt;Bis zum Schluss unvers&amp;ouml;hnt und schwer krank, starb der blinde K&amp;ouml;nig am &lt;a href=&quot;wiki/12._Juni&quot; title=&quot;12. Juni&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;12. Juni&lt;/font&gt;&lt;/a&gt; &lt;a href=&quot;wiki/1878&quot; title=&quot;1878&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;1878&lt;/font&gt;&lt;/a&gt; in &lt;a href=&quot;wiki/Paris&quot; title=&quot;Paris&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Paris&lt;/font&gt;&lt;/a&gt;. Sein Leichnam wurde nach England &amp;uuml;berf&amp;uuml;hrt und in der Gruft der &lt;em&gt;St. George&amp;#39;s Chapel&lt;/em&gt; in &lt;a href=&quot;wiki/Schloss_Windsor&quot; title=&quot;Schloss Windsor&quot;&gt;&lt;em&gt;&lt;font color=&quot;#0000ff&quot;&gt;Windsor Castle&lt;/font&gt;&lt;/em&gt;&lt;/a&gt; beigesetzt.&lt;/p&gt;&lt;/div&gt;</description>
+			<hints>Macht es euch nicht zu bequem.</hints>
+			<licence></licence>
+			<logs>
+				
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.40193" lon="9.86363">
+	<time>2007-05-13T00:00:00Z</time>
+	<name>OC3662</name>
+	<desc>U&amp;L*2* Motivation</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=116983</url>
+	<urlname>U&amp;L*2* Motivation</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>U&amp;L*2* Motivation</name>
+			<owner>Lucky_User</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Micro</container>
+			<difficulty>1.5</difficulty>
+			<terrain>1.5</terrain>
+			<summary html="false"></summary>
+			<description html="false">Den Herzogen den R&amp;uuml;cken gekehrt und FMT im Blick.</description>
+			<hints>unnatürlich !!!</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="168467">
+	<time>2007-05-20T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;wow, nach so langer Zeit mal wieder ein FTF, wohl aber nur weil der bei gc.com noch nicht freigegeben ist... Hier lag doch schon mal ein Supermax-Cache?! Naja, auf jeden Fall gut gefunden.&lt;/p&gt;&lt;p&gt;No Trade&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="168777">
+	<time>2007-05-20T00:00:00Z</time>
+	<geocacher>Jott Tee Punkt</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;2&quot;&gt;Tja BUDDY war heute schon fr&amp;uuml;h auf den Beinen.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;2&quot;&gt;Nach milit&amp;auml;rischer Durchschlage &amp;Uuml;bung&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-embarassed.gif&quot; border=&quot;0&quot; alt=&quot;Embarassed&quot; title=&quot;Embarassed&quot; /&gt; (falschen Weg genommen), den Cach dann doch schnell gefunden&lt;/font&gt;&lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.44257" lon="9.81385">
+	<time>2007-06-24T00:00:00Z</time>
+	<name>OC3A3F</name>
+	<desc>Fluch der Fischbeker Karibik</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=117972</url>
+	<urlname>Fluch der Fischbeker Karibik</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Fluch der Fischbeker Karibik</name>
+			<owner>gloeckchen</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Multi</type>
+			<container>Regular</container>
+			<difficulty>3.0</difficulty>
+			<terrain>2.0</terrain>
+			<summary html="false">...ein &quot;navi-cache&quot; ;-)</summary>
+			<description html="false">&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;table border=&quot;0&quot; width=&quot;700&quot; height=&quot;80&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;background-image: url(images/uploads/E4AC0005-9DFE-D154-A3D4-E553A5B09000.jpg)&quot;&gt;
+
+&lt;h2 align=&quot;center&quot;&gt;&lt;span style=&quot;background-color: #eeee99&quot;&gt;...Ach Ja ! ... die Fischbeker Karibik ....&lt;/span&gt;&lt;/h2&gt;
+&lt;span style=&quot;background-color: #eeee99&quot;&gt;
+Einst Schauplatz glorreicher Schlachten - jetzt das reinste Paradies...&lt;br /&gt;
+Unbewohnte Inseln, ...wei&amp;szlig;e Str&amp;auml;nde und das t&amp;uuml;rkisblaue..? oh! &lt;br /&gt;
+&amp;Auml;h -kann ja mal passieren- ...es geht wohl auch ohne, aber daf&amp;uuml;r jetzt mit Piratenschatz ;-)&lt;p&gt;&lt;/span&gt;&lt;span style=&quot;background-color: #eeee99&quot;&gt;
+Hier die Koordinaten...&lt;br /&gt;
+&lt;/span&gt;&lt;span style=&quot;background-color: #eeee99&quot;&gt;
+53&amp;deg; 26.55N    &lt;br /&gt;
+9&amp;deg; 48.48E  (Parkmöglichkeit - nur als Vorschlag, geht auch von woanders)&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/span&gt;&lt;span style=&quot;background-color: #eeee99&quot;&gt;
+53&amp;deg; 27 N&lt;br /&gt;
+9&amp;deg; 49 ¾ E (der Schatz)&lt;p&gt;&lt;/span&gt;&lt;span style=&quot;background-color: #eeee99&quot;&gt;
+Naja, die Qualit&amp;auml;t der Schatzkoordinaten ist nat&amp;uuml;rlich miserabel!&lt;br /&gt;
+Einerseits erz&amp;auml;hlt man sie sich nur bei gen&amp;uuml;gend Rum in dunklen Spielunken, &lt;br /&gt;
+und andererseits ist ja auch das Bermudadreieck nicht weit.&lt;br /&gt;
+(Wer ein wenig umhersucht, kann es sogar sehen - es ist rot und aus Holz ..h&amp;auml;tt&amp;#39;ich nie gedacht! ;-) )&lt;p&gt;&lt;/span&gt;&lt;span style=&quot;background-color: #eeee99&quot;&gt;
+...um den Schatz zu heben, n&amp;uuml;tzen diese Koordinaten allein nat&amp;uuml;rlich nichts, 
+&lt;br /&gt;man sollte sich also vorher schon um ausreichend    &amp;nbsp;&amp;nbsp;&quot;Hintergrundinformationen&quot; &amp;nbsp;&amp;nbsp;  &lt;br /&gt;
+ dieses Caches bemühen. ...damit ausgerüstet sollte die Schatzsuche aber erfolgreich sein.
+ &lt;br /&gt;... zumal man sich erz&amp;auml;hlt, da&amp;szlig; der Schatz zwar vergraben,...&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+ &lt;br /&gt;aber die Stelle -wie in jedem schlechten Piratenfilm- durch ein Kreuz 
+ &lt;br /&gt;markiert sein soll...   ...? sagt man! ;-)
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/span&gt;&lt;span style=&quot;background-color: #eeee99&quot;&gt;
+&lt;strong&gt;Also M&amp;auml;nner!&lt;/strong&gt; ...zeigt mal was ihr drauf habt!&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;br /&gt;&lt;strong&gt;AHOI! &lt;/strong&gt;... und viel Gl&amp;uuml;ck bei der Suche!&lt;br /&gt;
+PS: Lasst euch nicht verschlucken! Man sagt sich hier auch, da&amp;szlig; in k&amp;uuml;rze das Dreieck den Schatz, Insel f&amp;uuml;r Insel,
+und das ganze Drumherum verschlingen wird,&lt;br /&gt; ...und das halte ich leider &lt;br /&gt;nicht komplett f&amp;uuml;r Seemannsgarn :-( &lt;br /&gt;  &lt;/span&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+
+
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+			<hints>[HM?, es scheint ein wenig schwerer zu sein, als ich dachte...]
+Ihr braucht zunächst mal eine rechte Maustaste und ein scharfes Auge!
+[Sorry Mäckies ...ich weiß der Tip nützt euch nich&apos; viel. ;-)] 
+</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="259634">
+	<time>2008-01-25T00:00:00Z</time>
+	<geocacher>sweetdragon81</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Ahoi! Bei eisigem Wind sind wir mit unserem Kahn in See gestochen. Unsere Galleonsfigur Luna brach sich durch die Wellen und wir kamen wohlbehalten an der Insel an. In der Ferne konnten wir ein paar Landratten erblicken, die sich aber nicht getraut haben, das Meer zu bezwingen. Nach echter Schatzsuchermanier haben wir uns zu dem &amp;quot;X&amp;quot; begeben und sind f&amp;uuml;ndig geworden! Harrr! Welch guter Schatz, der nur den tollk&amp;uuml;hnsten der Piraten vorbehalten sein sollte! Wir haben leichte Feuchtigkeit aufgewischt und nach dem Eintrag im Logbuch den Schatz wieder vergraben, damit andere tapfere Freibeuter ihn noch finden k&amp;ouml;nnen!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Vielen Dank!&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="259691">
+	<time>2008-01-25T00:00:00Z</time>
+	<geocacher>Sternenflitzer</geocacher>
+	<type>Found</type>
+	<text>Im Team mit Sweetdragon81 in See gestochen und die Insel geentert. Es war zwar sehr st&amp;uuml;rmisch, aber das h&amp;auml;lt keinen Piraten ab. Schatz gefunden, geloggt und wieder vergraben. Danke f&amp;uuml;r das Abenteuer. &lt;br /&gt;</text>
+</log>
+
+
+<log id="229018">
+	<time>2007-11-11T00:00:00Z</time>
+	<geocacher>gloeckchen</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;&lt;strong&gt;Harrr!&lt;/strong&gt; Das Unwetter hat uns mal wieder auf die Insel getrieben!&lt;/p&gt;&lt;p&gt;Dank der Warnung von xibalba01 konnten wir Einiges vom Schatz retten und auch das Log noch wieder einigerma&amp;szlig;en trocknen) sogar das gesunkene Schiff (es Stand bis zur Masth&amp;auml;lfte im Wasser) konnten wir mit Hilfe des Taschenmessers wieder Trockenlegen ;-)&lt;/p&gt;&lt;p&gt;sch&amp;ouml;nen Dank f&amp;uuml;r den Tip.&lt;/p&gt;&lt;p&gt;Capt. Gl&amp;ouml;ckchen &amp;amp; Crew&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="228443">
+	<time>2007-11-09T00:00:00Z</time>
+	<geocacher>xibalba01</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Feiner Navi-Cache; habe ordentlich gegr&amp;uuml;belt bis ich darauf kam&amp;nbsp; :)&lt;/p&gt;&lt;p&gt;Vom Cache &amp;quot;Wurfplatz&amp;quot; aus hierher war es eine interessante Tour, die Karibik &amp;quot;um die Ecke&amp;quot; zu haben war mir ganz neu.&lt;/p&gt;&lt;p&gt;Nur die Suche war mir am Ziel zu einfach, denn der Cache lag offen :(&lt;br /&gt;Zum Gl&amp;uuml;ck lag das Logbuch neben dem Beh&amp;auml;lter und ein Brett war dar&amp;uuml;ber. So war das Buch nur feucht und ich konnte mit etwas Abstand zum vorigen Cacher loggen.&lt;/p&gt;&lt;p&gt;Dringender Wartungsbedarf!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;no trade, TFTC!&amp;nbsp;&lt;/p&gt;&lt;p&gt;Wird trotzdem meine erste Empfehlung bei OC!&lt;/p&gt;</text>
+</log>
+
+
+<log id="222934">
+	<time>2007-10-25T00:00:00Z</time>
+	<geocacher>oldeagle</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Habe mich in der D&amp;auml;mmerung auf den langen Weg begeben und die Insel recht z&amp;uuml;gig ausfindig gemacht. Erst dachte ich, hier kann nichts versteckt sein - was einen Schatz &amp;auml;hnelt - aber nach einigem Suchen, war ich dann doch erfolgreich. Ich war au&amp;szlig;erdem sehr begeistert von dem LogBuch - was in diesem Fall ja wirklich mal w&amp;ouml;rtlich genommen werden kann. Echt toll!!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="208546">
+	<time>2007-09-15T00:00:00Z</time>
+	<geocacher>yaska&amp;co</geocacher>
+	<type>Found</type>
+	<text>Nach einigen Wirrungen im windigen Sandmeer doch die richtige Insel angesteuert,an Land gegangen,sich durch die Bäume &amp;quot;geschlagen&amp;quot; und den Schatz erfolgreich erbeutet!!!  ;)  &lt;br /&gt;
+Haben ihn dann auch gleich ausgeräubert und die &amp;quot;Truhe&amp;quot; für die nachfolgenden Piraten wieder vergraben.Schlugen uns dann wieder zurück&lt;br /&gt;
+durch die Bäume und segelten fort zu neuen Abenteuern.&lt;br /&gt;
+&lt;br /&gt;
+Danke für den Cache&lt;br /&gt;
+&lt;br /&gt;
+</text>
+</log>
+
+
+<log id="202240">
+	<time>2007-08-31T00:00:00Z</time>
+	<geocacher>die_weissen</geocacher>
+	<type>Found</type>
+	<text>Dieses schöne Rätsel haben wir schnell gelöst. Es war recht schnell klar, wo diese Location sein muß. Überrascht hat uns, das wir die Koordinaten auf 1m genau erspielt haben. Das war echt Glück .... oder Können? Am Zielort hat Joshua dann den Behälter schnell gefunden. Irgendwie scheint die Location aber auch ein Favorit von einigen &amp;quot;merkwürdigen&amp;quot; Muggles sein, die irgendwie lange Weile haben   ;). Sind aber ganz harmlos! Vielen Dank für dieses schöne Rätsel, was sicherlich auch auf gc.com seine Fans finden würde.   </text>
+</log>
+
+
+<log id="188432">
+	<time>2007-07-25T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;ich find Mysteries immer noch nicht gut, aber diesen Cache an sich daf&amp;uuml;r umso besser. Ein Super Versteck, genau richtig, nicht zu schwer, nicht zu leicht. Dazu eine sehr sch&amp;ouml;ne Geschichte und ein wirklich SEHR liebevoll gemachtes Logbuch, kurz und gut wirklich SUPER!!!!! Den solltest du wirklich noch bei gc.com reinstellen, sonst verpassen den viel zu viele Cacher, daf&amp;uuml;r ist er einfach zu sch&amp;ouml;n... &lt;/p&gt;&lt;p&gt;und zu guter Letzt haben wir jetzt einen Weg von Daheim in die Karibik von nur 2 Kilometern, sogar das Wetter war heute abend angemessen.&lt;/p&gt;&lt;p&gt;No Trade&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="186392">
+	<time>2007-07-20T00:00:00Z</time>
+	<geocacher>gloeckchen</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;...Cachebeschreibungein wenig ge&amp;auml;ndert, und den Hinweis erweitert... jetzt sollte es&amp;nbsp; deutlicher&amp;nbsp; erkennbar sein ;-)&lt;/p&gt;&lt;p&gt;...viel Gl&amp;uuml;ck&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="186189">
+	<time>2007-07-19T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;so, 3 mal gelesen und immer noch nicht verstanden worum es geht... Tja, hier ist dann das erste Weichei das schon mal nicht begreift um was es eigentlich geht, dennoch allen anderen viel Spa&amp;szlig;.&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="182525">
+	<time>2007-07-04T00:00:00Z</time>
+	<geocacher>gloeckchen</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;...nach anf&amp;auml;nglichen Schwierigkeiten mit Html-Cachebeschreibung&amp;nbsp; - ist&amp;#39;s doch endlich vollbracht :-)&lt;/p&gt;&lt;p&gt;Besten Dank f&amp;uuml;r die schnelle Hilfe im Forum an &lt;span class=&quot;name&quot;&gt;&lt;strong&gt;PHerison &lt;/strong&gt;&lt;/span&gt;! (Auch wenn er sich angesichts dieser &amp;quot;H&amp;auml;&amp;szlig;lichsten unter den Cachebeschreibungen&amp;quot; bestimmt am liebsten davon distanzieren w&amp;uuml;rde ;-) &lt;br /&gt;...insofern: DoppelDank ;-) )&lt;/p&gt;&lt;p&gt;...&amp;#39;n Sch&amp;ouml;nheitswettbewerb werd ich zwar noch nicht gewinnen, aber ich finde sie jetzt ok so :-) &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.52167" lon="9.93833">
+	<time>2007-09-08T00:00:00Z</time>
+	<name>OC411E</name>
+	<desc>Hamburgs schönste Orte 01</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=119731</url>
+	<urlname>Hamburgs schönste Orte 01</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Hamburgs schönste Orte 01</name>
+			<owner>klaxon</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Multi</type>
+			<container>Virtual</container>
+			<difficulty>3.5</difficulty>
+			<terrain>2.0</terrain>
+			<summary html="false">Hamburgs schönste Orte 01</summary>
+			<description html="false">&lt;p&gt;Heute entdeckt &amp;amp; geschwelgt und mein Geocaching-Erstlingswerk.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Foto ansehen - Schild entschl&amp;uuml;sseln - Hinfahren.&lt;/p&gt;&lt;p&gt;Sehr romantisches Pl&amp;auml;tzchen, auch f&amp;uuml;r Picknicks, Spontankonzerte und kleine Partys (zu denen Ihr mich gerne einladen d&amp;uuml;rft).&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Die angegebenen Koordinaten sind NICHT die des gesuchten Ortes, aber von dort kann man ihn sehen.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Ob es ein Logbuch geben wird, ist noch offen, der Erstfinder m&amp;ouml;ge bitte einen Kommentar verfassen (welche weitere Zahl - in orange - findet sich dort?).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;Viel Spa&amp;szlig;!&lt;/p&gt;</description>
+			<hints>Ich war mit dem Fahrrad da!</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="212386">
+	<time>2007-09-29T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Not Found</type>
+	<text>&lt;p&gt;so, heute der Versuch vor Ort. Obwohl wir beide uns im Hafen nicht soooo schlecht auskennen, nix zu finden, auf beiden Seiten kein Gl&amp;uuml;ck. Auch ein paar Angler die ja viel im Hafen unterwegs sind konnten uns nicht wirklich helfen. Da ich keine Ahnung hab wie man den Cache l&amp;ouml;sen soll mu&amp;szlig; ich hier aufgeben. Ich dr&amp;uuml;cke dir die Daumen das den irgendwann mal einer findet...&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="212540">
+	<time>2007-09-29T00:00:00Z</time>
+	<geocacher>klaxon</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;Ist der Cache zu schwer zu finden?&lt;/p&gt;&lt;p&gt;Immerhin handelt es sich um einen der sch&amp;ouml;nsten Orte Hamburgs, abgelegen und (hoffentlich?!) einsam. Damit das so bleibt, wollte ich eine kleine H&amp;uuml;rde einbauen. Au&amp;szlig;erdem k&amp;ouml;nnt Ihr bei der Suche viele weitere Sch&amp;auml;tze im Hafen entdecken.&lt;/p&gt;&lt;p&gt;Auch finden sich dort viele &amp;auml;hnliche Schilder und zwar - ich hoffe, ich verrate nicht zu viel - direkt am Wasser.&lt;/p&gt;</text>
+</log>
+
+
+<log id="205633">
+	<time>2007-09-10T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;d.h. ich muss wissen wo dieses Schild ist um den Cache zu finden?? Hab ich das soweit richtig verstanden??&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="205749">
+	<time>2007-09-10T00:00:00Z</time>
+	<geocacher>klaxon</geocacher>
+	<type>Note</type>
+	<text>Ja, genau, Du musst rauskriegen, wo das Schild steht - und dann dorthin fahren. Besonders sch&amp;ouml;n mit Abendsonne.&lt;br /&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.33662" lon="9.83710">
+	<time>2007-05-20T00:00:00Z</time>
+	<name>OC36E2</name>
+	<desc>Herrscher auf Erdkurs</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=117111</url>
+	<urlname>Herrscher auf Erdkurs</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Herrscher auf Erdkurs</name>
+			<owner>gloeckchen</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Multi</type>
+			<container>Regular</container>
+			<difficulty>5.0</difficulty>
+			<terrain>2.0</terrain>
+			<summary html="false">ein Meilsen meiner Cachegeschichte ;-)</summary>
+			<description html="false">&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;Mein Name ist &lt;/font&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;Ozymandias.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;...wie ich sehe, tragt ihr noch keine Kappe!?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;Macht euch schlau, und wenn ihr dann immer noch wollt - folgt mir! &lt;br /&gt;&lt;/font&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&amp;nbsp;(thanks to John - aber es ist nur eins ;-) )&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;--------------------- das wars schon: Ende der eigentlichen Cachebeschreibung -----------------------&lt;/p&gt;&lt;p&gt;nur noch ein kleiner Rat von Ozymandias:&lt;/p&gt;&lt;p&gt;&amp;quot;Ich mache mich zwar zu Fu&amp;szlig; auf den Weg, euch aber wird eine Kutsche, ein Pferd ,oder zuminest ein magnetischer Esel, erleichternd dienlich sein mich einzuholen.&amp;quot;&amp;nbsp;&lt;/p&gt;&lt;p&gt;(...ein wenig wirr, der Bursche! oder tut er nur so? - er meint&amp;#39;s aber nur gut mit euch;-) es geht aber auch zu Fu&amp;szlig; )&lt;br /&gt; &lt;/p&gt;&lt;p&gt;&amp;quot;Eine erste Rast solltet ihr den Pferden bei 53 20.004&amp;nbsp; 9 50.379 g&amp;ouml;nnen, gegen&amp;uuml;ber befindet sich auch ein immerge&amp;ouml;ffneter Ausspann, wo ihr euch und die Tiere st&amp;auml;rken k&amp;ouml;nnt&amp;quot;&amp;nbsp; &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;-----------------------------Ab hier nur noch ein paar Tipps f&amp;uuml;r Unterwegs----------------------------- &lt;/p&gt;&lt;p&gt;(Bevor ihr euch auf den Weg macht, solltet ihr aber zumindest eine Vermutung haben, worum es in der o.g. Beschreibung geht)&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;ggf.(falls n&amp;ouml;tig) weiterere Hinweise: &lt;/p&gt;&lt;p&gt;- Trug jrvgre ovf mh 53 20,229 9 49.544 haq travr&amp;szlig;g qvr Ynaqfpunsg.&lt;br /&gt;&amp;nbsp;&amp;nbsp;
+&lt;/p&gt;&lt;p&gt;- orbonpugrg rhpu wrznaq? &lt;br /&gt;&lt;/p&gt;&lt;p&gt;- ...bqre oyrvog va Qrpxhat! 2 fvaq Uvagre qrz Fpuhccra.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;auf der Flucht:&amp;nbsp;&lt;/p&gt;&lt;p&gt;- 
+Vue x&amp;ouml;aag fvr u&amp;ouml;era. &lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Rf vfg avpug nyyrf Tbyq, jnf ty&amp;auml;amg.&lt;br /&gt;&amp;nbsp; Rf vfg nhpu xrva Oyrv, fgvaxg nore... nhpu avpug!?&lt;br /&gt;&amp;nbsp; Qnaa vfg&amp;#39;f orfgvzzg nhpu xrvar jvexyvpur Znhre ;-)&amp;nbsp;fpunhg fvr rhpu zny tranh na.&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#9966ff&quot;&gt;PS: (kleiner Sightseeing.Tip - lustig, aber nicht weiter wichtig): Wenn ihr auf der Flucht eine s&amp;uuml;dliche Route w&amp;auml;hlt, kommt ihr ca 600mSW vorm Ziel an einem Machwerk der Vorfahren vorbei, welches in Verbindung mit anderen geocaches&amp;nbsp; wie z.B. gcrmrb gcvfme, gchjht, gct92w steht. Selbst, wenn Ihr euch draufstellt, kann wahrscheinlich nur ein geschultes Auge ahnen warum.&amp;nbsp;&amp;nbsp; -&amp;gt;&amp;quot;gugelm&amp;auml;ppst&amp;quot; doch mal ab 300m wirds klarer ;-)&lt;/font&gt; &lt;/p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;1&quot;&gt;---------- Schlu&amp;szlig; mit Hinweisen, jetzt vorsichtshalber nur noch ein paar Formalit&amp;auml;ten (das Kleingedruckte halt) ----------&amp;nbsp;&lt;/font&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;1&quot;&gt;Ihr werdet &lt;/font&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;1&quot;&gt;Ozymandias Wahrscheinlich auf einem Privatgrundst&amp;uuml;ck treffen.&lt;br /&gt;Der Eigent&amp;uuml;mer ist ein-&amp;quot;geweiht&amp;quot; aber es gilt: &lt;br /&gt;&amp;quot;Betreten auf eigene Gefahr&amp;quot; - damit die Grundst&amp;uuml;ckshaftpflicht zufrieden ist, und &lt;br /&gt;&amp;quot;Verhaltet euch anst&amp;auml;ndig - kein M&amp;uuml;ll und kein Flurschaden&amp;quot; - damit ich beruhigt bin ;-) )&lt;br /&gt; &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;1&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;1&quot;&gt;&amp;nbsp;Zur Cache-Stammbesatzung geh&amp;ouml;rt: Logbuch Bleistift und &lt;/font&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;1&quot;&gt;Ozymandias Erkl&amp;auml;rung.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;1&quot;&gt;(Bei vor&amp;uuml;bergehender Entnahme der Erkl&amp;auml;rung* loggt es bitte (mit dem voraussichtlichen R&amp;uuml;ckgabedatum) hier ein, damit der N&amp;auml;chste sich nicht zu fr&amp;uuml;h umsonst auf die Suche macht) &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;1&quot;&gt;&lt;br /&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot;&gt;*bei dieser handelt es sich lediglich um eine Gebrauchskopie. Gegen die Kopierrechte der Original-CDs (2006 Arena Verlag) darf nat&amp;uuml;rlich nicht versto&amp;szlig;en werden (keine Vervielf&amp;auml;ltigung, keine &amp;ouml;ffentliche Auff&amp;uuml;hrung usw.) &lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<hints>Ihr habt    hier    nichts zu suchen!
+
+</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="253207">
+	<time>2008-01-06T00:00:00Z</time>
+	<geocacher>xibalba01</geocacher>
+	<type>Found</type>
+	<text>&lt;font size=&quot;1&quot;&gt;Ich geniesse gerade die Mittagsruhe; meine Tochter h&amp;auml;lt Mittagsschlaf.&lt;br /&gt;Ein bisschen surfen, telefonieren,...&lt;br /&gt;STOP! -Was ist das?? &lt;br /&gt;Ein Cache vom Mai 2007, bis heute (27.12.2007) noch nicht gehoben?&lt;br /&gt;Das war es denn wohl mit der Planung f&amp;uuml;r den Rest des Tages, jetzt wird gecacht!&lt;br /&gt;&lt;/font&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;1&quot;&gt;&amp;quot;Bevor ihr euch auf den Weg macht, solltet ihr aber zumindest eine Vermutung haben, worum es in der o.g. Beschreibung geht&amp;quot;&lt;/font&gt;&lt;font size=&quot;1&quot;&gt;&lt;br /&gt;      Okay, schnell ein bisschen gegoogelt und los gehts.&lt;br /&gt;Das war dann auch gleich der erste Schuss ins Leere und bei der erneuten Online-Recherche am Abend wusste ich auch warum.&lt;br /&gt;Einen kleinen Tipp bekam ich dann etwas sp&amp;auml;ter vom Cacheowner per Mail und so konnte ich ein wenige Tage sp&amp;auml;ter wieder los.&lt;br /&gt;-Wieder nix und gemailt. &lt;br /&gt;Versuch drei: So etwas dusseliges, &lt;span style=&quot;font-weight: bold&quot;&gt;das&lt;/span&gt; h&amp;auml;tte ich doch schon bei meinem vorigen Besuch hier finden k&amp;ouml;nnen!&lt;br /&gt;Bin wohl immer noch etwas gr&amp;uuml;n hinter den Cacherohren... und deswegen auch wieder bei der n&amp;auml;chsten Station gescheitert.&lt;br /&gt;Dazu habe ich auch einen Tipp bekommen; nach welcher Farbe ich hier Ausschau halten soll.&lt;br /&gt;&lt;br /&gt;Also gut, es ist Sonntag Abend. Ich k&amp;ouml;nnte in Ruhe vor dem TV oder PC sitzen.&lt;br /&gt;Aber da ist ja noch dieser Cache...&lt;br /&gt;Es ist stockfinster und meine Frau w&amp;uuml;rde mich wohl nach der R&amp;uuml;ckkehr einweisen lassen.&amp;nbsp; &lt;/font&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt;&lt;br /&gt;&lt;font size=&quot;1&quot;&gt;Egal, die neue LED-Mag hervorgeholt und los gehts!&lt;br /&gt;Vor Ort dann mit gleissendem Licht ordentlich Rinder erschreckt und joggende Muggels angefunzelt -die wurden dann schneller &lt;/font&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; /&gt;&lt;font size=&quot;1&quot;&gt;&lt;br /&gt;Nach rund 45 Min hatte ich den letzten Hinweis! -Und dann gab es kein halten mehr.&lt;br /&gt;Wege zum Cache habe ich im Dunkeln nicht ausmachen k&amp;ouml;nnen, aber Stacheldraht h&amp;auml;lt keinen Cacher in diesem Zustand auf und dann &lt;span&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;ZUGRIFF!!!&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; /&gt;&lt;font size=&quot;1&quot;&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;F&amp;uuml;r den R&amp;uuml;ckweg fand ich dann auch das offen stehende Tor und im Auto konnte&lt;/font&gt;&lt;font size=&quot;1&quot;&gt; ich dann schon &lt;/font&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;1&quot;&gt;Ozymandias Erkl&amp;auml;rung &lt;/font&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;1&quot;&gt;lauschen. Die CD ist bis zum Wochenende wieder zur&amp;uuml;ck!&lt;br /&gt;Das einzig echte Problem (f&amp;uuml;r mich) bei diesem Cache: Wie werde ich jetzt dieses Dauergrinsen wieder los? Hilft daf&amp;uuml;r das Tragen einer Kappe?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;font size=&quot;2&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;Vielen dank f&amp;uuml;r diesen wunderbaren Cache und die dezenten Hinweise per Mail!&lt;/span&gt;&lt;/strong&gt;&lt;/font&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Kleiner Tipp f&amp;uuml;r folgende Cacher (kein Spoiler):&lt;br /&gt;Wenn ihr eurer Kutsche Pferde mit besonders kurzen Beinen vorspannt, werdet ihr wohl Probleme auf den Wegen bekommen.&lt;br /&gt;Mein Gaul mit &amp;quot;Standart&amp;quot;-Beinen ist gut durchgekommen.&lt;br /&gt;Und: nur Mut! Eigentlich gar nicht so schwer...&lt;br /&gt;&lt;/font&gt;</text>
+</log>
+
+
+<log id="211249">
+	<time>2007-09-25T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Not Found</type>
+	<text>Hi, also ich f&amp;uuml;r meinen Teil:&lt;br /&gt;&lt;br /&gt;1. Mysteries mag ich nicht&lt;br /&gt;2. OC Only&lt;br /&gt;&lt;br /&gt;nicht b&amp;ouml;s gemeint, ist halt einfach so.&lt;br /&gt;&lt;br /&gt;MfG J&amp;ouml;rg&lt;br /&gt;</text>
+</log>
+
+
+<log id="192851">
+	<time>2007-08-05T00:00:00Z</time>
+	<geocacher>gloeckchen</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;212 Aufrufe,&amp;nbsp; 1 Ignorant ...und noch keiner will es versucht haben??? - glaub ich nicht!&lt;/p&gt;&lt;p&gt;...wo hakt es denn? schreibt/loggt ruhig, ich kann helfen!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="177729">
+	<time>2007-06-17T00:00:00Z</time>
+	<geocacher>gloeckchen</geocacher>
+	<type>Note</type>
+	<text>Hmm?! fast 1 Monat und 95 Aufrufe, aber und noch keinen Logeintrag? ...geb&amp;#39; wohl erstmal lieber die vollen 5 Punkte bei &amp;quot;schwierigkeit&amp;quot; ;-) ...traut euch ruhig zu loggen oder mailen, wenn ihr unterwegs irgendwo h&amp;auml;ngengeblieben seid. ich bei&amp;szlig; nicht! (vielleicht hat sich ozymandias ja auch etwas zu sehr zur&amp;uuml;ckgehalten :-( )&lt;br /&gt; </text>
+</log>
+
+
+<log id="169655">
+	<time>2007-05-23T00:00:00Z</time>
+	<geocacher>gloeckchen</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;...soweit fertig, nur bei der Bestimmung des Schwierigkeitsgrades hab ich noch Probleme. Betrachtet die Angabe eher als &amp;quot;Verhandlungsbasis&amp;quot;&amp;nbsp;  und gebt, wenn ihr wollt, in den Logs oder mail einen Vorschlag ab.
+
+&lt;/p&gt;&lt;p&gt;viel Spa&amp;szlig;... &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt; &lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.53972" lon="9.95987">
+	<time>2007-02-01T00:00:00Z</time>
+	<name>OC2E15</name>
+	<desc>Elbtiefe 21Meter</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=114858</url>
+	<urlname>Elbtiefe 21Meter</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Archived" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Elbtiefe 21Meter</name>
+			<owner>HCNitro</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Small</container>
+			<difficulty>2.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">der cach ist im altem Elbtunnel in der mitte</summary>
+			<description html="false"></description>
+			<hints>Tunnelmitte</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="141933">
+	<time>2007-02-01T00:00:00Z</time>
+	<geocacher>Oli</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;Ich habe den Geocache eben archiviert.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;font color=&quot;#cc0033&quot;&gt;Wir halten diesen Geocache f&amp;uuml;r zu gef&amp;auml;hrlich. Wegen &amp;auml;hnlichen Sachen gab es bereits Bombenalarme mit Gro&amp;szlig;einsatz.&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Der Owner wird gebeten den Geocache zu entfernen.&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.54457" lon="9.97308">
+	<time>2006-08-22T00:00:00Z</time>
+	<name>OC23B9</name>
+	<desc>Google Maps (Windjammer)</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=112185</url>
+	<urlname>Google Maps (Windjammer)</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Google Maps (Windjammer)</name>
+			<owner>Oschn</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Other</type>
+			<container>Virtual</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Cachesuche für Couch-Potatoes</summary>
+			<description html="false">Aufgabe:&lt;br /&gt;
+Finde per Google Maps ein Segelschiff mit mindestens zwei Masten.&lt;br /&gt;
+Es darf gerne auch ein fest vertäutes Museumsschiff sein, aber mehr Sexappeal hat natürlich eines, das mit viel Tuch hoch am Wind segelt. ;-)&lt;br /&gt;
+&lt;br /&gt;
+Bedingung:&lt;br /&gt;
+Das Schiff sollte nach dem allgemeinen Verständnis das Kriterium &amp;quot;Windjammer&amp;quot; erfüllen, also nicht nur irgendein heruntergekommener Fischkutter sein. Bei ortsgebundenen Schiffen gib bitte den Namen im Log an.&lt;br /&gt;
+&lt;br /&gt;
+Vorgehensweise:&lt;br /&gt;
+a) Rufe http://maps.google.de/ auf.&lt;br /&gt;
+b) Positioniere Dich auf dem Objekt Deiner Wahl, und zwar ohne Ortseingabe, sonst funktioniert Punkt e) nicht.&lt;br /&gt;
+c) Gehe auf Satelliten-Modus und die höchste Zoomstufe.&lt;br /&gt;
+d) Zentriere die Karte per Doppelklick auf das Objekt.&lt;br /&gt;
+e) Klicke auf &amp;quot;URL zu dieser Seite&amp;quot;.&lt;br /&gt;
+f) Logge mit dem so in der Browsereingabezeile erzeugten Link - fertig!&lt;br /&gt;
+&lt;br /&gt;
+Und bitte loggt diesen Cache nur einmal(!) und nur mit einer(!) Koordinate und einem(!) Schiff, auch wenn es Euch vielleicht gelungen ist, mehrere Großsegler zu finden. Alles andere wäre ziemlich asozial, denn es reduziert die Möglichkeiten für andere Cacher, diesen Cache ebenfalls loggen zu können. Vielen Dank!&lt;br /&gt;
+&lt;br /&gt;
+Wer das Segelschulschiff Gorch Fock findet, bekommt einen Bonuspunkt (im Marinehafen Kiel braucht Ihr gar nicht erst zu suchen, dort liegt sie nicht). :-)&lt;br /&gt;
+&lt;br /&gt;
+Happy Map-Googleing!</description>
+			
+			<licence></licence>
+			<logs>
+				
+<log id="251014">
+	<time>2008-01-04T00:00:00Z</time>
+	<geocacher>xibalba01</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Die HMS TRINCOMALEE ist eine bis heute erhaltene britische 46 - Kanonen -
+Fregatte. Sie lief 1817 vom Stapel und liegt heute hervorragend
+restauriert in Hartlepool. &lt;br /&gt;Da&amp;szlig; das Schiff dieses Alter erreichte, ist vor allem der
+Besonderheit zuzuschreiben, da&amp;szlig; es aus Teak gebaut wurde.&lt;/p&gt;&lt;p&gt;Mehr dazu gibt es z.B. im &lt;a href=&quot;http://www.napoleon-forum.de/index.php?s=8ebdceee6b19c687bc9291e315c4c229&amp;amp;showtopic=605&amp;amp;pid=7599&amp;amp;st=0&amp;amp;#entry7599&quot; target=&quot;_blank&quot; title=&quot;Napoleon-Forum&quot;&gt;Napoleon-Forum&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;Klicke &lt;a href=&quot;http://maps.google.com/maps?f=q&amp;amp;hl=de&amp;amp;geocode=&amp;amp;time=&amp;amp;date=&amp;amp;ttype=&amp;amp;q=hartlepool&amp;amp;sll=53.568953,9.684867&amp;amp;sspn=0.009149,0.020084&amp;amp;ie=UTF8&amp;amp;ll=54.690292,-1.206951&amp;amp;spn=0.001113,0.002511&amp;amp;t=h&amp;amp;z=19&amp;amp;om=1&quot; title=&quot;die Trincomalee in Google Maps&quot;&gt;hier&lt;/a&gt; f&amp;uuml;r die Ansicht in Google Maps. &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;TFTC!&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="235663">
+	<time>2007-11-27T00:00:00Z</time>
+	<geocacher>tommyto23</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Witzige Idee! Habe auf diese Weise mal wieder das Regalskeppet Vasa in Stockholm besucht - leider am 10.08.1628 bei der Jungfernfahrt gesunken. Man kann ja nicht immer Gl&amp;uuml;ck haben ...&lt;/p&gt;&lt;p&gt;&amp;nbsp;TFTC! &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;amp;ll=59.328027,18.091382&amp;amp;spn=0.001937,0.005021&amp;amp;t=h&amp;amp;z=18&amp;amp;om=1&amp;nbsp;&quot;&gt;http://maps.google.de/?ie=UTF8&amp;amp;ll=59.328027,18.091382&amp;amp;spn=0.001937,0.005021&amp;amp;t=h&amp;amp;z=18&amp;amp;om=1&amp;nbsp;&lt;/a&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="234749">
+	<time>2007-11-25T00:00:00Z</time>
+	<geocacher>DeLonge</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Hier ein sch&amp;ouml;ner Dreimaster &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; /&gt;&amp;nbsp; Die Gorch Fock im Hafen von Stralsund.&lt;/p&gt;&lt;p&gt;Gruss DeLonge.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;amp;ll=54.316724,13.098216&amp;amp;spn=0.000789,0.001797&amp;amp;t=k&amp;amp;z=19&amp;amp;om=1&quot; title=&quot;Gorch Fock&quot;&gt;http://maps.google.de/?ie=UTF8&amp;amp;ll=54.316724,13.098216&amp;amp;spn=0.000789,0.001797&amp;amp;t=k&amp;amp;z=19&amp;amp;om=1&amp;nbsp;&lt;/a&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="227431">
+	<time>2007-11-06T00:00:00Z</time>
+	<geocacher>Mirjo</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;So, nach den ganzen P&amp;ouml;tten auf Reede hier mal eine Windjammer, die ihrem Namen auch alle Ehre macht. Gefunden auf der Unterelbe H&amp;ouml;he Schulau, gerade an der Schiffsbegr&amp;uuml;ssungsanlage vorbei, Richtung (mein) Heimathafen Hamburg.&lt;/p&gt;&lt;p&gt;Und wer weiss jetzt, welches Schiff das ist? Ich leider nicht...&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Herzlichen Dank, Mirjo&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;a href=&quot;http://maps.google.com/?ie=UTF8&amp;amp;ll=53.562145,9.730319&amp;amp;spn=0.000738,0.002511&amp;amp;t=h&amp;amp;z=19&amp;amp;om=1&quot;&gt;http://maps.google.com/?ie=UTF8&amp;amp;ll=53.562145,9.730319&amp;amp;spn=0.000738,0.002511&amp;amp;t=h&amp;amp;z=19&amp;amp;om=1&lt;/a&gt; </text>
+</log>
+
+
+<log id="211788">
+	<time>2007-09-27T00:00:00Z</time>
+	<geocacher>flughamster</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Im Hafen Shotover auf Jamaica, ein Zweimaster. Ist echt schwer ein sch&amp;ouml;nes Schiff zu finden!&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;amp;t=k&amp;amp;om=1&amp;amp;ll=18.180433,-76.453868&amp;amp;spn=0.003323,0.005021&amp;amp;z=18&quot; target=&quot;_blank&quot; title=&quot;Shotover Jamaica&quot;&gt;http://maps.google.de/?ie=UTF8&amp;amp;t=k&amp;amp;om=1&amp;amp;ll=18.180433,-76.453868&amp;amp;spn=0.003323,0.005021&amp;amp;z=18&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Gruss Flughamster&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="185403">
+	<time>2007-07-16T00:00:00Z</time>
+	<geocacher>Dr. Geofisch</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Die &amp;quot;Dar Pomorza&amp;quot; ist ein dreimastiges Vollschiff, das im Hafen von Gdingen (Polen) als Museumsschiff liegt.&amp;nbsp; &lt;/p&gt;&lt;p&gt;http://maps.google.de/?ie=UTF8&amp;amp;ll=54.519431,18.552856&amp;amp;spn=0.002061,0.005021&amp;amp;t=k&amp;amp;z=18&amp;amp;om=1&lt;/p&gt;&lt;p&gt;Bei all den Windjammern, die schon gefunden wurden, ist es gar nicht mehr so einfach, ein weiteres in Google Maps zu identifizieren. Danke und viele Gr&amp;uuml;&amp;szlig;e! &lt;/p&gt;</text>
+</log>
+
+
+<log id="180863">
+	<time>2007-06-28T00:00:00Z</time>
+	<geocacher>FlatPicker</geocacher>
+	<type>Found</type>
+	<text>http://maps.google.de/maps?ie=UTF8&amp;amp;ll=56.671836,12.858489&amp;amp;spn=0.00104,0.002435&amp;amp;t=k&amp;amp;z=18&amp;amp;om=0&lt;br /&gt;&lt;br /&gt;Dreimastbark &amp;quot;Najaden&amp;quot;, Halmstad, Schweden, by FlatPicker&lt;br /&gt;</text>
+</log>
+
+
+<log id="158824">
+	<time>2007-04-18T00:00:00Z</time>
+	<geocacher>derScratchy</geocacher>
+	<type>Found</type>
+	<text>Da hab ich doch ma ganz schnell ein Segler rausgesucht.&lt;br /&gt;
+Leider funktioniert das mit GoogleMaps nicht so richtig, darum habe ich auf Google-Earth zurückgegriffen.</text>
+</log>
+
+
+<log id="155557">
+	<time>2007-04-08T00:00:00Z</time>
+	<geocacher>midnatsol</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Ich habe diesen Gro&amp;szlig;segeler ausfindig gamacht. Es handelt sich um die Fregatte Jylland in Ebeltoft (D&amp;auml;nemark).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;z=19&amp;ll=56.199216,10.674084&amp;spn=0.003993,0.010042&amp;t=k&amp;om=1&quot;&gt; Fregatte Jylland&lt;/a&gt;
+&lt;p&gt;Für die mir bekannten Finnen hat die Auflösung nicht gereicht. Und die Stadsrad Lehmkuhl war nicht an ihren Platz ;-)&lt;/p&gt;</text>
+</log>
+
+
+<log id="150035">
+	<time>2007-03-14T00:00:00Z</time>
+	<geocacher>H-AKA</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Eine Windjammer unter Segeln mitten auf dem Ijsselmeer.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;http://maps.google.com/maps?f=q&amp;amp;hl=de&amp;amp;q=lemmer&amp;amp;sll=53.546428,9.973183&amp;amp;sspn=0.100568,0.346069&amp;amp;layer=&amp;amp;ie=UTF8&amp;amp;z=18&amp;amp;ll=52.886807,5.137396&amp;amp;spn=0.001596,0.005407&amp;amp;t=k&amp;amp;om=1&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;TFTC&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="150104">
+	<time>2007-03-14T00:00:00Z</time>
+	<geocacher>IAKA</geocacher>
+	<type>Found</type>
+	<text>21:14 IAKA was here&lt;br /&gt;
+&lt;br /&gt;
+.. in Bremerhaven mit der Seute Deern, wer mehr wissen will, der schaue doch mal bei&lt;br /&gt;
+http://de.wikipedia.org/wiki/Seute_Deern&lt;br /&gt;
+nach....&lt;br /&gt;
+&lt;br /&gt;
+Hier das Bild:&lt;br /&gt;
+http://maps.google.de/?ie=UTF8&amp;amp;om=1&amp;amp;z=19&amp;amp;ll=53.54026,8.578372&amp;amp;spn=0.001119,0.002832&amp;amp;t=h&lt;br /&gt;
+&lt;br /&gt;
+DFDC</text>
+</log>
+
+
+<log id="144833">
+	<time>2007-02-20T00:00:00Z</time>
+	<geocacher>Kanalkieker</geocacher>
+	<type>Found</type>
+	<text>Segelschiff USS Constellation,Baltimor&lt;br /&gt;
+&lt;br /&gt;
+http://maps.google.de/maps?f=q&amp;amp;hl=de&amp;amp;q=Baltimore,+MD,+USA&amp;amp;ie=UTF8&amp;amp;z=19&amp;amp;ll=39.285353,-76.610831&amp;amp;spn=0.001482,0.002816&amp;amp;t=k&amp;amp;om=1&lt;br /&gt;
+&lt;br /&gt;
+Bei GE gibts alles drumherum in 3D,&lt;br /&gt;
+&lt;br /&gt;
+Danke und Gruß,&lt;br /&gt;
+Kanalkieker</text>
+</log>
+
+
+<log id="140686">
+	<time>2007-01-24T00:00:00Z</time>
+	<geocacher>woschpb</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;a href=&quot;http://maps.google.de/maps?f=q&amp;amp;hl=de&amp;amp;q=yokohama&amp;amp;ie=UTF8&amp;amp;z=17&amp;amp;ll=35.453985,139.632164&amp;amp;spn=0.002517,0.008208&amp;amp;t=k&amp;amp;om=0&quot;&gt;http://maps.google.de/maps?f=q&amp;amp;hl=de&amp;amp;q=yokohama&amp;amp;ie=UTF8&amp;amp;z=17&amp;amp;ll=35.453985,139.632164&amp;amp;spn=0.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 002517,0.008208&amp;amp;t=k&amp;amp;om=0&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Auch was gefunden.&lt;/p&gt;&lt;p&gt;Nippon Maru ,Yokohama.Japan&lt;/p&gt;&lt;p&gt;Gruss W.&lt;/p&gt;</text>
+</log>
+
+
+<log id="138914">
+	<time>2007-01-15T00:00:00Z</time>
+	<geocacher>Vater und Sohn</geocacher>
+	<type>Found</type>
+	<text>Endlich habe ich auch hier was gefunden:&lt;br /&gt;
+2 Segler im Hafen von Piraeus:&lt;br /&gt;
+&lt;br /&gt;
+http://maps.google.com/maps?ie=UTF8&amp;amp;z=18&amp;amp;ll=37.933489,23.649788&amp;amp;spn=0.001773,0.004978&amp;amp;t=k&amp;amp;om=1&lt;br /&gt;
+&lt;br /&gt;
+Danke und Gruß</text>
+</log>
+
+
+<log id="138678">
+	<time>2007-01-14T00:00:00Z</time>
+	<geocacher>antenne</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Diese Bark - ein Nachbau der &lt;a href=&quot;http://maps.google.de/maps?f=l&amp;amp;hl=de&amp;amp;q=33%C2%B052+09,15+S+151%C2%B011+57,87E&amp;amp;ie=UTF8&amp;amp;near=&amp;amp;z=18&amp;amp;ll=-33.869035,151.199663&amp;amp;spn=0.001946,0.003648&amp;amp;t=k&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Endeavour&quot;&gt;Endeavour &lt;/a&gt;liegt im Hafen von Sidney.&lt;/p&gt;&lt;p&gt;Weitere Links finder Ihr hier:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://de.wikipedia.org/wiki/Endeavour_(Schiff)&quot; target=&quot;_blank&quot;&gt;Originalschiff von James Cook&lt;/a&gt;&lt;/p&gt;&lt;h1 id=&quot;pageTitle&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.anmm.gov.au/site/page.cfm?u=441&quot; target=&quot;_blank&quot;&gt;HM Bark Endeavour replica&lt;/a&gt;&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;http://commons.wikimedia.org/wiki/Image:HMS_Bark_Endeavour_-_Replica01.jpg&quot; target=&quot;_blank&quot;&gt;Foto&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Danke f&amp;uuml;r den Cache und viele Gr&amp;uuml;&amp;szlig;e, Uwe und Anette&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="137499">
+	<time>2007-01-08T00:00:00Z</time>
+	<geocacher>Mel.X</geocacher>
+	<type>Found</type>
+	<text>Dieses &lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;z=18&amp;ll=53.54259,9.976015&amp;spn=0.001434,0.004072&amp;t=k&amp;om=1&quot;&gt;&amp;quot;Schiffchen&amp;quot; &lt;/a&gt; hab ich in Hamburg gefunden!  ;)  </text>
+</log>
+
+
+<log id="128918">
+	<time>2006-11-24T00:00:00Z</time>
+	<geocacher>Yellow ants</geocacher>
+	<type>Found</type>
+	<text>Im hafen von Bristol (England): &lt;a href=&quot;http://maps.google.com/maps?q=51.449166+-2.608553+(OC23B9)&quot;&gt;SS Great Britain&lt;/a&gt;</text>
+</log>
+
+
+<log id="126897">
+	<time>2006-11-17T00:00:00Z</time>
+	<geocacher>pictum</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Im Hafen von Portsmouth fand ich &lt;a href=&quot;http://maps.google.de/maps?&amp;amp;ie=UTF8&amp;amp;z=19&amp;amp;ll=50.798205,-1.10904&amp;amp;spn=0.001261,0.003712&amp;amp;t=k&amp;amp;om=1&quot; target=&quot;_blank&quot;&gt;diesen&lt;/a&gt; &amp;quot;kleinen&amp;quot; Segler.&lt;/p&gt;&lt;p&gt;Danke f&amp;uuml;r den Cache und Gr&amp;uuml;&amp;szlig;e&lt;/p&gt;&lt;p&gt;Thomas (pictum) &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; /&gt; &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="126691">
+	<time>2006-11-15T00:00:00Z</time>
+	<geocacher>goldensurfer</geocacher>
+	<type>Found</type>
+	<text>Rein zufällig beim Spielen mit GoogleEarth bin ich über &lt;a href=&quot;http://maps.google.de/maps?f=q&amp;hl=de&amp;ie=UTF8&amp;om=1&amp;z=19&amp;ll=37.809801,-122.422494&amp;spn=0.001168,0.001845&amp;t=k&quot;&gt;dieses alte Segelschiff&lt;/a&gt; mit 3 Masten im Hafen von San Francisco gestolpert.</text>
+</log>
+
+
+<log id="124343">
+	<time>2006-11-03T00:00:00Z</time>
+	<geocacher>Baxbunny</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Moin Moin!&lt;/p&gt;&lt;p&gt;Dies m&amp;uuml;sste die &amp;quot;Star of India&amp;quot; sein, die in San Diego liegt. Sie zeigt sich von ihrer sch&amp;ouml;nen Seite, da ein paar Segel gehisst sind.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: &apos;Times New Roman&apos;&quot;&gt;&lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;amp;t=k&amp;amp;om=1&amp;amp;z=19&amp;amp;ll=32.720243,-117.173524&amp;amp;spn=0.001512,0.003326&quot;&gt;&lt;font color=&quot;#800080&quot;&gt;http://maps.google.de/?ie=UTF8&amp;amp;t=k&amp;amp;om=1&amp;amp;z=19&amp;amp;ll=32.720243,-117.173524&amp;amp;spn=0.001512,0.003326&lt;/font&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: &apos;Times New Roman&apos;&quot;&gt;Vielen Dank f&amp;uuml;r diese andere Art von Cache, wenn man mal nicht raus kann.&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: &apos;Times New Roman&apos;&quot;&gt;Gru&amp;szlig; Baxbunny&lt;/span&gt;&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.31445" lon="9.84177">
+	<time>2007-04-12T00:00:00Z</time>
+	<name>OC334A</name>
+	<desc>Suerhoper Moor</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=116191</url>
+	<urlname>Suerhoper Moor</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Unavailable" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Suerhoper Moor</name>
+			<owner>Jott Tee Punkt</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Regular</container>
+			<difficulty>2.0</difficulty>
+			<terrain>1.5</terrain>
+			<summary html="false">Am idyllischen Suerhoper Moor</summary>
+			<description html="false">An dem umgefallenen Zaun st&amp;ouml;rt sich kein Mensch.</description>
+			<hints>Unter einer kleinen Kiefer im Gestrüpp</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="233428">
+	<time>2007-11-24T00:00:00Z</time>
+	<geocacher>Jott Tee Punkt</geocacher>
+	<type>Note</type>
+	<text>Tjatut mir leid, ist im Moment nicht verf&amp;uuml;gbar. Hat irgend ein Trottel geklaut&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-frown.gif&quot; border=&quot;0&quot; alt=&quot;Frown&quot; title=&quot;Frown&quot; /&gt;</text>
+</log>
+
+
+<log id="227236">
+	<time>2007-11-05T00:00:00Z</time>
+	<geocacher>Orion11</geocacher>
+	<type>Not Found</type>
+	<text>&lt;p&gt;Heute zum 2. Mal hier gewesen, alle kleinen Kiefer im Gestr&amp;uuml;pp genau untersucht, nix.&lt;/p&gt;&lt;p&gt;Wir kommen wieder.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="222422">
+	<time>2007-10-23T00:00:00Z</time>
+	<geocacher>Genirora</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Gut versteckt sind erst mitten ins Moor gelaufen .&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; /&gt;&lt;br /&gt;No Trade&lt;/p&gt;&lt;p&gt;Vielen Dank f&amp;uuml;r diesen Cache.&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="203381">
+	<time>2007-09-02T00:00:00Z</time>
+	<geocacher>gloeckchen</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;...mit Hilfe meiner einheimischen Helfer schnell gefunden.&lt;/p&gt;&lt;p&gt;&amp;nbsp;sch&amp;ouml;ne Ecke,&lt;/p&gt;&lt;p&gt; Danke f&amp;uuml;r den Cache :-)&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;In: WaterHandy-Game, Schellen&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Out:&amp;nbsp; 2Figuren und eine Schachtel mit Sand (?)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="168885">
+	<time>2007-05-20T00:00:00Z</time>
+	<geocacher>Lucky_User</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Nettes Biotop, sch&amp;ouml;ner Cache. &lt;/p&gt;&lt;p&gt;Gastcacherin Knautschi &amp;amp; Helga-Hund waren auch dort.&lt;/p&gt;&lt;p&gt;No Trade&lt;/p&gt;</text>
+</log>
+
+
+<log id="166148">
+	<time>2007-05-13T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;zwar ne ganz sch&amp;ouml;ne Strecke zu laufen, aber in solcher Umgebung ist das ja eher ein Belohnung! Schade das der nicht auch bei gc.com eingestellt ist, so konnte ich keinen TB ablegen.&lt;/p&gt;&lt;p&gt;No Trade&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="162735">
+	<time>2007-04-30T00:00:00Z</time>
+	<geocacher>gumari</geocacher>
+	<type>Found</type>
+	<text>Heute per Rad gut und schnell gefunden. wir kannten diese sch&amp;ouml;ne Fleckchen Erde gar nicht, obwohl wir in der N&amp;auml;he wohnen. Vielen Dank! Out: TB, In: -</text>
+</log>
+
+
+<log id="157786">
+	<time>2007-04-15T00:00:00Z</time>
+	<geocacher>5Füchse</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Dich 5 F&amp;uuml;chse&amp;nbsp;aus Trelde haben ihn gehoben.&lt;/p&gt;&lt;p&gt;Echt ein wirklich sch&amp;ouml;ner Cache !&lt;br /&gt;Wir haten die Suche schon fast aufgegeben, da hat&amp;nbsp;unserer 8 Jahre alter kleiner Fuchs doch die richtige Nase gehabt.&lt;br /&gt;Suber sch&amp;ouml;n so soll ein Cache angelegt sein !&lt;/p&gt;&lt;p&gt;Auch der Erstfinderschluck f&amp;uuml;r Pappa Fuchs war sehr lecker.&lt;/p&gt;&lt;p&gt;Dank - Die 5 F&amp;uuml;chse&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.52905" lon="10.12383">
+	<time>2008-01-21T00:00:00Z</time>
+	<name>OC4F22</name>
+	<desc>Mikro-Antibiotikum</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=123320</url>
+	<urlname>Mikro-Antibiotikum</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Mikro-Antibiotikum</name>
+			<owner>Oschn</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Other</type>
+			<container>Regular</container>
+			<difficulty>2.0</difficulty>
+			<terrain>3.0</terrain>
+			<summary html="false">Traditional mit Logbedingung.</summary>
+			<description html="false">&lt;p&gt;&lt;font color=&quot;#5F5F5F&quot;&gt;&lt;big&gt;Traditional mit
+      Logbedingung&lt;/big&gt;&lt;br /&gt;
+&lt;b&gt;Ein pharmazeutischer Beitrag zur
+Seuchenbekämpfung&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;http://www.opencaching.de/images/uploads/94E2F3A0-18A1-102B-870D-00163E0598ED.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align:justify; text-indent:2em;&quot;&gt;&lt;font color=&quot;#5F5F5F&quot;&gt;Ich weiß nicht, ob es nur mir allein so geht. Aber die
+sich exponentiell vermehrenden Micro-Caches beginnen allmählich,
+mir den Spaß zu verderben. Nicht, dass ich grundsätzlich etwas
+gegen Mikros hätte. Denn es gibt ja durchaus sehenswerte Orte, an
+denen sich partout keine größeren Behälter verstecken lassen. Aber
+seien wir doch mal ganz ehrlich: In 90 Prozent aller Fälle hat sich
+entweder der Owner gar nicht erst die Mühe gemacht, einen guten
+Platz für einen richtigen Cachebehälter zu erkunden. Oder der Ort
+des Verstecks ist weder sehenswert noch gibt es sonst einen
+erkennbaren Grund dafür, warum ausgerechnet &lt;i&gt;dort&lt;/i&gt; ein Cache
+liegen muss. Abgesehen von der im Brustton der Überzeugung
+geäußerten Ansicht des Owners, dass dem unbedingt so
+sei.&lt;/font&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:justify; text-indent:2em;&quot;&gt;&lt;font color=&quot;#5F5F5F&quot;&gt;Und weil es so gut wie keine Mühe macht, eine Filmdose
+irgendwo zu verstecken, sind inzwischen jede noch so popelige
+Kirche, Turnhalle, ja sogar Supermärkte bedost, es liegen
+umfunktionierte Lippenpflegebalsam-Stifte an Baumwurzeln, an die
+Frauchen ihre Fifis strullen lassen, hängen Filmdosen bisweilen an
+Pissoirs, an stadtbekannten sozialen Brennpunkten,
+Autobahnraststätten, Kinderspielplätzen, kameraüberwachten
+Einkaufszentren oder Bahnhöfen. Mit anderen Worten: Alles Orte, wo
+man unheimlich gerne auch mal längere Zeit nach so einer
+Kleinigkeit sucht. Und so manches Mal kommt es mir so vor, als sei
+ein Mikro nur versteckt worden, damit sich sich die Suchenden zum
+Affen machen, indem der Owner sie dazu veranlasst, in aller
+Öffentlichkeit Turnübungen an Brückengeländern zu veranstalten oder
+auf einer Verkehrsinsel inmitten einer vierspurig befahrbaren
+Straße an einem Verkehrsschild herumzuschrauben.&lt;/font&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:justify; text-indent:2em;&quot;&gt;&lt;font color=&quot;#5F5F5F&quot;&gt;Als ob dies alles noch nicht genug wäre, kommen
+neuerdings auch noch immer kleinere Behälter zum Einsatz.
+Schließlich leben wir im Zeitalter der Nanotechnologie. Und eine
+Dose, die nicht größer als die Batterie eines Hörgerätes ist, ist
+schließlich ein toller Gag, wenn sie an einem Kiosk in der
+belebtesten Fußgängerzone der Stadt klebt. Solche nahezu
+unsuchbaren Caches werden dann auch gerne mal damit gerechtfertigt,
+dass die Suche ja schließlich der wesentliche Teil des Spiels sei,
+was sich bei einer etwas differenzierteren Betrachtung aber als
+totaler Bullshit darstellt. Weil es nicht auf das Suchen, sondern
+ausschließlich auf das &lt;i&gt;Finden&lt;/i&gt; ankommt. Denn es würde wohl kaum
+jemand nach dem Cachen zuhause berichten, er habe zwar nichts
+finden können, aber eine ganz tolle &lt;i&gt;Suche&lt;/i&gt; gehabt.
+&lt;/font&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:justify; text-indent:2em;&quot;&gt;&lt;font color=&quot;#5F5F5F&quot;&gt;Nun bin ich mir allerdings durchaus darüber im klaren,
+dass ich selber nicht besser, sondern tatsächlich ein Teil des
+Problems bin. Ähnlich dem Autofahrer, der sich über den Stau
+ärgert, in dem er steht, den er aber selber mitverursacht. Also
+habe ich mich dazu entschlossen, mit gutem Beispiel voranzugehen
+und einige meiner Mikros zu archivieren. Einer davon (&lt;a href=&quot;http://www.opencaching.de/viewcache.php?cacheid=108065&quot;&gt;OC13AA&lt;/a&gt;) - ein ziemlich beliebig und spontan verlegter - befand
+sich ganz in der Nähe. Dabei ist hier, wie man sehen kann, genügend
+Platz für eine große Dose. Und um auch andere Owner dazu anzuregen,
+ihre Caches einmal kritisch unter die Lupe zu nehmen, gibt es für
+das Loggen dieses Caches folgende Regeln:&lt;/font&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;b&gt;Logbedingungen&lt;/b&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:justify; text-indent:2em;&quot;&gt;Diesen Cache darfst
+Du nur loggen, wenn Du im Gegenzug mindestens einen Deiner
+&lt;i&gt;eigenen&lt;/i&gt; Micro-Caches archivierst. Und zwar zeitnah, d.h. der
+Mikro muss bis kurz vor dem Loggen noch aktiv und intakt gewesen
+sein. Gemuggelte oder anderweitig zerstörte Mikros zählen nicht.
+Als Beweis legst Du bitte die Dose Deines archivierten Mikros samt
+Logbuch in diesen Cache und schreibst den Namen des Caches ins Log
+(gerne mit einem Link zur Archive-Note). Andernfalls lösche ich
+Dein Log wieder.&lt;/p&gt;
+&lt;p style=&quot;text-align:justify; text-indent:2em;&quot;&gt;Einzig für Cacher,
+die selber keinen einzigen Mikro versteckt haben, mache ich eine
+Ausnahme. Sie sind schließlich sündenfrei und dürfen daher ohne
+vorherige Buße loggen.&lt;/p&gt;
+&lt;p style=&quot;text-align:justify&quot;&gt;Also haut rein!&lt;/p&gt;
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;b&gt;Nachbemerkung&lt;/b&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:justify; text-indent:2em;&quot;&gt;Dieser Cache ist bei geocaching.com von einem Reviewer mit folgender Begründung zurückgewiesen worden:&lt;/p&gt;
+&lt;p&gt;
+&lt;pre&gt;
+---(schnipp)---
+&quot;Deine Logbedingung: &quot;Diesen Cache darfst Du nur loggen, wenn Du im
+Gegenzug mindestens einen Deiner eigenen Micro-Caches archivierst.&quot;
+ist so leider nicht zulässig, denn Logbedingungen sind nur sinnvoll,
+wenn man diese vor Ort erledigen kannst (z.B. ein Foto machen).
+
+Ein Loggen eines Caches darf weder vom Platzieren noch vom Archivieren
+(bzw. Umbauen) eines existierenden Caches abhängig gemacht werden. Das 
+ist nämlich kontraproduktiv zum Spiel und dieses Spiel lebt von ALLEN 
+Dosen, auch von den Micros.&quot;
+---(schnapp)---&lt;/pre&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align:justify; text-indent:2em;&quot;&gt;
+Leider reichte diesmal der Weitblick des Reviewers nicht aus, um zu erkennen, dass manchmal erst Altes (Kleines) weichen muss, damit Neues (Größeres) entstehen kann. Just for the records: Alleine in den zwei Wochen zwischen Weihnachten 2007 und dem Dreikönigstag 2008 wurden in Norddeutschland (200 Kilometer um die Stadt Hamburg) rund 900 (neunhundert!) neue Caches bei geocaching.com publiziert. Von den jüngsten 100 in Hamburg veröffentlichten Caches sind 58 als &quot;micro&quot; oder &quot;unknown&quot; (i.d.R. also Nanos) gelabelt, aber nur elf sind &quot;regular&quot;, davon lediglich drei (3!) Traditionals. Wir dürfen gespannt sein, wie das Spiel weiterlebt - mit &quot;ALLEN Dosen&quot; ...
+&lt;/p&gt;</description>
+			<hints>Oruäygre ovggr na qre frvgyvpura Tevsszhyqr össara haq frue fbetsäygvt jvrqre irefpuyvrßra.</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="259283">
+	<time>2008-01-24T00:00:00Z</time>
+	<geocacher>Oschn</geocacher>
+	<type>Note</type>
+	<text>Startinhalt:&lt;br /&gt;
+&lt;a href=&quot;http://www.opencaching.de/viewcache.php?cacheid=108065&quot;&gt;OC13AA&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.opencaching.de/viewcache.php?cacheid=113337&quot;&gt;OC2827&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.opencaching.de/viewcache.php?cacheid=116077&quot;&gt;OC32D8&lt;/a&gt;</text>
+</log>
+
+
+<log id="259366">
+	<time>2008-01-24T00:00:00Z</time>
+	<geocacher>Der_dicke_Olli</geocacher>
+	<type>Found</type>
+	<text>In der N&amp;auml;he des Caches fand ich eine Leiche, die im Wasser trieb. Ich zog sie an Land, konnte aber nichts mehr machen, denn die kleine Seele hatte sich schon von ihrem K&amp;ouml;rper gel&amp;ouml;st...&lt;br /&gt;</text>
+</log>
+
+
+<log id="259351">
+	<time>2008-01-24T00:00:00Z</time>
+	<geocacher>Oschn</geocacher>
+	<type>Note</type>
+	<text>Ich bitte um Verständnis, dass ich an dieser Stelle keine Diskussion über den Cache zulassen möchte.&lt;br /&gt;
+&lt;br /&gt;
+Loggt den Cache zu meinen Bedingungen oder lasst es bleiben. Niemand zwingt Euch zu irgendwas. Man muss ja nicht jeden Cache suchen - nicht einen lahmen Micro und auch nicht diesen hier.</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.56208" lon="9.96198">
+	<time>2008-01-14T00:00:00Z</time>
+	<name>OC4E9C</name>
+	<desc>Schanze - Rote Flora</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=123186</url>
+	<urlname>Schanze - Rote Flora</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Schanze - Rote Flora</name>
+			<owner>outlive</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Micro</container>
+			<difficulty>2.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Ein Traditional im Herzen des Schanzenviertel</summary>
+			<description html="false">&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rote_Flora_juli_07.jpg/800px-Rote_Flora_juli_07.jpg&quot; /&gt;
+ 
+&lt;h1 class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;/h1&gt;
+&lt;div id=&quot;bodyContent&quot; dir=&quot;ltr&quot;&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Die&lt;/font&gt;&lt;/font&gt;
+      &lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;b&gt;Rote
+      Flora&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;befindet sich im
+      ehemaligen Flora-Theater (auch&lt;/font&gt;&lt;/font&gt; &lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;i&gt;alte
+      Flora&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;) im &lt;a href=&quot;http://de.wikipedia.org/wiki/Hamburg&quot;&gt;Hamburger&lt;/a&gt; &lt;a href=&quot;http://de.wikipedia.org/wiki/Schanzenviertel&quot;&gt;Schanzenviertel&lt;/a&gt;,
+      das im November 1989 nach dem erfolgreichen Widerstand gegen
+      den Umbau zu einem &lt;a href=&quot;http://de.wikipedia.org/wiki/Musical&quot;&gt;Musicaltheater&lt;/a&gt;
+      &lt;a href=&quot;http://de.wikipedia.org/wiki/Hausbesetzung&quot;&gt;besetzt&lt;/a&gt; und
+      in ein &lt;a href=&quot;http://de.wikipedia.org/wiki/Autonomes_Zentrum&quot;&gt;Autonomes
+      Zentrum&lt;/a&gt; umgewandelt wurde.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Das Gebäude steht am
+   &lt;a href=&quot;http://de.wikipedia.org/wiki/Schulterblatt_%28Stra%C3%9Fe%29&quot;&gt;
+Schulterblatt&lt;/a&gt; 71.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p align=&quot;justify&quot; style=&quot;margin-bottom: 0cm; line-height: 100%&quot;&gt;
+&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;b&gt;Geschichte&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Das Theater wurde 1888, nachdem
+es seit Mitte des 19. Jahrhunderts in den Sommermonaten an dieser
+Stelle in provisorischen Bauten leichte Unterhaltung für
+Sommergäste gab, zunächst als&lt;/font&gt;&lt;/font&gt; &lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;i&gt;Tivoli-Theater&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;erbaut. Danach wurde es
+in&lt;/font&gt;&lt;/font&gt; &lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;i&gt;Concerthaus Flora&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;und schließlich
+in&lt;/font&gt;&lt;/font&gt; &lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;i&gt;Flora-Theater&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;umbenannt. Dort wurden zunächst
+Konzerte und Operetten, später Revuen und Varieté-Vorstellungen
+aufgeführt. Als eines der wenigen Theater in Hamburg überstand das
+Floratheater den &lt;a href=&quot;http://de.wikipedia.org/wiki/Zweiter_Weltkrieg&quot;&gt;Zweiten
+Weltkrieg&lt;/a&gt; nahezu unversehrt.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Bis 1943 wurde das Theater
+bespielt, danach wurde es geschlossen und lediglich für die
+Lagerung von Möbeln ausgebombter Hamburger genutzt. Nach einer
+Renovierung wurde das Theater 1949 wiedereröffnet. Von 1953 bis
+1964 diente das Gebäude als Kino mit 800 Plätzen, dann zog das
+Warenhaus&lt;/font&gt;&lt;/font&gt; &lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;i&gt;1000
+      Töpfe&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;ein.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;1987 wurde der &lt;a href=&quot;http://de.wikipedia.org/wiki/Musical&quot;&gt;Musical&lt;/a&gt;-Produzent
+&lt;a href=&quot;http://de.wikipedia.org/w/index.php?title=Friedrich_Kurz&amp;amp;action=edit&quot;&gt;
+Friedrich Kurz&lt;/a&gt; auf das Gebäude aufmerksam. Kurz trat an die
+Stadt Hamburg mit dem Wunsch heran, das Gebäude zum &lt;a href=&quot;http://de.wikipedia.org/wiki/Musiktheater&quot;&gt;Musical-Theater&lt;/a&gt;
+umzubauen. Er wollte ab 1989 das Musical&lt;/font&gt;&lt;/font&gt; &lt;a href=&quot;http://de.wikipedia.org/wiki/Das_Phantom_der_Oper&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;
+&lt;font size=&quot;2&quot;&gt;&lt;i&gt;Das Phantom der
+Oper&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;/a&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;dort zur Aufführung bringen.
+Ende 1987 zog&lt;/font&gt;&lt;/font&gt; &lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;i&gt;1000
+Töpfe&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;aus. Innerhalb weniger
+      Monate regte sich vielfältiger Widerstand gegen die
+      Musicalpläne. Ein breites Bündnis von Anwohnern,
+      Gewerbetreibenden, aber auch &lt;a href=&quot;http://de.wikipedia.org/wiki/Autonome&quot;&gt;autonomen&lt;/a&gt; Gruppen
+      organisierte vielfältige Proteste.Es wurde die Sorge
+      formuliert, dass mit einem Musicaltheater an dieser Stelle
+      Mieten für Gewerbe und Wohnraum unbezahlbar würden. Nicht
+      verhindert werden konnte der Abriss des größten Teils des
+      historischen Floratheaters im April 1988. Lediglich der
+      Eingangsbereich sollte erhalten werden, dahinter sollte ein
+      Neubau mit der neuen Musicalabspielstätte entstehen. Doch
+      zahlreiche Aktionen, eine Platzbesetzung im Juni 1988 und
+      &lt;a href=&quot;http://de.wikipedia.org/wiki/Militanz&quot;&gt;militante&lt;/a&gt;
+      Anschläge gegen die Baustelle führten im September 1988 dazu,
+      dass trotz täglicher Polizeibewachung die Investoren das
+      Musicalprojekt zumindest an dieser Stelle
+      aufgaben.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Bis zum darauffolgenden Sommer
+stand das Restgebäude leer. Lediglich Initiativen aus dem Stadtteil
+bemühten sich in so genannten&lt;/font&gt;&lt;/font&gt; &lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;i&gt;Winterfestmachaktionen&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;um den provisorischen Erhalt
+des Restgebäudes.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Im August 1989 bot die Stadt
+den Initiativen überraschend einen befristeten sechswöchigen
+Nutzungsvertrag an, um die Vorstellung einer alternativen Nutzung
+als Stadtteilzentrum öffentlich zu präsentieren.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Die Gruppen gingen auf dieses
+Integrationsangebot zunächst ein. Nachdem am 23. September 1989 die
+Rote Flora offiziell eröffnet wurde, wurde sie dann am 1. November
+1989 für &lt;a href=&quot;http://de.wikipedia.org/wiki/Hausbesetzung&quot;&gt;besetzt&lt;/a&gt; erklärt.
+Seitdem wird das Gebäude als kultureller und politischer Treffpunkt
+genutzt. Es gibt keine bezahlten Stellen, keine Fördergelder, die
+Belange des Projekts werden im Rahmen der &lt;a href=&quot;http://de.wikipedia.org/wiki/Selbstverwaltung&quot;&gt;Selbstverwaltung&lt;/a&gt;
+organisiert.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Zwischen 1990 und 1991
+errichteten die Nutzer der Roten Flora auf dem hinter dem
+Restgebäude liegenden Freigelände – dem ehemaligen Bauplatz – in
+Eigenarbeit einen Park. Die Stadt wollte an dieser Stelle nunmehr
+sozialen Wohnungsbau verwirklichen. So kam es im Juli 1991 zu einer
+Räumung des Parks in einem großangelegten Polizeieinsatz mit über
+1.000 Beamten.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Im August 1992 trat die
+damalige Senatorin für Stadtentwicklung im Auftrag des Hamburger
+Senats an die Rote Flora mit der Aufforderung heran, binnen sechs
+Wochen einen Vertrag über die Nutzung des Gebäudes mit der Stadt
+Hamburg zu unterzeichnen. Andernfalls würde das Projekt geräumt.
+Tatsächlich zogen sich die Verhandlung ohne eine abschließende
+Einigung über sechs Monate hin. Die angedrohte Räumung wurde nie
+vollzogen, die Rote Flora blieb besetzt.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Nach einem großen Brand im
+November 1995 wieder in Eigenarbeit durch die Besetzer in Stand
+gesetzt, diente diese nach wie vor als kulturelles Stadtteilprojekt
+sowie als politisches Zentrum autonomer Gruppen in Hamburg. Im
+Herbst 2000 wollte der Hamburger Senat erneut Verhandlungen über
+eine vertragliche Absicherung der Gebäudenutzung führen. Anlass war
+der anstehende Bürgerschaftswahlkampf 2001, in dem die Opposition
+die seit 11 Jahren andauernde Besetzung der Roten Flora zum
+Wahlkampfthema machen wollte. Das Nutzerplenum der Roten Flora
+lehnte nach kontroversen internen Diskussionen jedoch das
+Vertragsangebot ab. Daraufhin verkaufte der Senat der Stadt Hamburg
+im März 2001 überraschend das Haus an den Immobilienkaufmann
+&lt;a href=&quot;http://de.wikipedia.org/w/index.php?title=Klausmartin_Kretschmer&amp;amp;action=edit&quot;&gt;
+Klausmartin Kretschmer&lt;/a&gt;, der beim Kauf zusicherte, am Status der
+Roten Flora nichts ändern zu wollen. Im November &lt;a href=&quot;http://de.wikipedia.org/wiki/2004&quot;&gt;2004&lt;/a&gt; wurde in einem Festakt
+das 15-jährige Bestehen der Besetzung gefeiert. Im Vorfeld des
+&lt;a href=&quot;http://de.wikipedia.org/wiki/G8-Gipfel_in_Heiligendamm_2007&quot;&gt;G8-Gipfels
+in Heiligendamm&lt;/a&gt; wurde das Gebäude im Rahmen eines
+Ermittlungsverfahrens wegen des Verdachts der Bildung einer
+terroristischen Vereinigung (&lt;a href=&quot;http://de.wikipedia.org/wiki/Mitgliedschaft_in_einer_terroristischen_Vereinigung&quot;&gt;
+§ 129a StGB&lt;/a&gt;) am 9. Mai 2007 durch die Bundesanwaltschaft
+durchsucht. Da sich Beschuldigte des Ermittlungsverfahrens auch in
+der Roten Flora getroffen hatten, sollte durch diese Durchsuchung
+potentielles Beweismaterial sichergestellt werden. Beamte des
+Bundeskriminalamtes,der Bundesanwaltschaft und des Hamburger LKA
+durchsuchten 4 Stunden lang alle Räume des Gebäudes.Im Rahmen der
+Razzia wurden in der Roten Flora Computer, Drucker, Faxgeräte sowie
+zahlreiche Dokumente sichergestellt. Am gleichen Abend kam es zu
+einer spontanen Demonstration mit über 2000 Teilnehmern, die sich
+gegen die Durchsuchungsaktion wendete. Nach der Demonstration kam
+es zu Auseinandersetzung mit der Polizei. Das Nutzerplenum der
+Roten Flora wertete in einer Presseerklärung die Durchsuchung als
+Versuch, Proteste gegen den G8-Gipfel in Heiligendamm zu
+kriminalisieren. In einer Entscheidung vom Januar 2008 erklärte der
+3. Senat des Bundesgerichtshofs die Durchsuchung und die
+Beschlagnahme von Gegenständen in der Roten Flora anlässlich der
+Polizeiaktion vom Mai 2007 nachträglich für
+rechtswidrig.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;h2 align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Kultur&lt;/font&gt;&lt;/font&gt;&lt;/h2&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Von der Roten Flora ausgehend
+werden im Stadtviertel immer wieder Kunstaktionen, Flohmärkte,
+Stadtteilfeste veranstaltet oder unterstützt, aber auch politische
+Stadtteilarbeit im Stil von &lt;a href=&quot;http://de.wikipedia.org/wiki/B%C3%BCrgerinitiative&quot;&gt;Bürgerinitiativen&lt;/a&gt;
+findet statt. Themen sind dabei &lt;a href=&quot;http://de.wikipedia.org/wiki/Immigration&quot;&gt;Immigration&lt;/a&gt;,
+wiedererstarkender &lt;a href=&quot;http://de.wikipedia.org/wiki/Nationalismus&quot;&gt;Nationalismus&lt;/a&gt; in
+Deutschland, &lt;a href=&quot;http://de.wikipedia.org/wiki/Privatisierung&quot;&gt;Privatisierung&lt;/a&gt;
+öffentlichen Raums, und soziale Probleme wie der Konflikt um den
+Bauwagenplatz &lt;a href=&quot;http://de.wikipedia.org/wiki/Bambule_%28Bauwagenplatz%29&quot;&gt;Bambule&lt;/a&gt;
+(&lt;a href=&quot;http://de.wikipedia.org/wiki/Gentrifizierung&quot;&gt;Gentrifizierung&lt;/a&gt;).
+Finanziert werden die Aktivitäten der&lt;/font&gt;&lt;/font&gt;
+      &lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;i&gt;Flora&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;zum Beispiel durch
+      Konzerte, Partys und ähnliche Veranstaltungen, die Spannweite
+      der Musikstile reicht dabei von &lt;a href=&quot;http://de.wikipedia.org/wiki/Punk&quot;&gt;Punk&lt;/a&gt; über &lt;a href=&quot;http://de.wikipedia.org/wiki/Reggae&quot;&gt;Reggae&lt;/a&gt; oder &lt;a href=&quot;http://de.wikipedia.org/wiki/Dub_%28Musik%29&quot;&gt;Dub&lt;/a&gt; bis
+      hin zu &lt;a href=&quot;http://de.wikipedia.org/wiki/Drum%27n%27Bass&quot;&gt;Drum&apos;n&apos;Bass&lt;/a&gt;,
+      &lt;a href=&quot;http://de.wikipedia.org/wiki/House&quot;&gt;House&lt;/a&gt; und
+      &lt;a href=&quot;http://de.wikipedia.org/wiki/Techno&quot;&gt;Techno&lt;/a&gt;
+      (&lt;a href=&quot;http://de.wikipedia.org/wiki/Subkultur&quot;&gt;Subkultur&lt;/a&gt;).
+      Durch diese kulturelle Öffnung hin zu breiteren
+      Bevölkerungsschichten ist die Rote Flora in den 1990ern im
+      Schanzenviertel und &lt;a href=&quot;http://de.wikipedia.org/wiki/St._Pauli&quot;&gt;St. Pauli&lt;/a&gt;
+      endgültig zu einer festen &lt;a href=&quot;http://de.wikipedia.org/wiki/Institution&quot;&gt;Institution&lt;/a&gt;
+      geworden, die das Bild des Stadtteils mit geprägt hat. Das
+      Projekt sieht seine Rolle in diesem Zusammenhang selbst als
+      durchaus zwiespältig. Gerade die nichtkommerziell
+      ausgerichteten Veranstaltungen haben durchaus erst jenen
+      „Charme“ und das „subkulturelle Ambiente“ geliefert, das
+      mittlerweile zur Kulisse für das sogenannte „In“-Viertel und
+      die Ausgehmeile Schanzenviertel geworden
+      ist.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Die Außenfassade des Hauses
+dient als Medium für regelmäßig wechselnde, selbstgestaltete
+politische Plakate.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Der Cache hat besonders hohe
+Muggeldichte Mittags/Sommer.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;left&quot; style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Bitte Cache genauso befestigen
+wie vorgefunden, damit er noch lange lebt!&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;left&quot; style=&quot;margin-bottom: 0cm&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;left&quot; style=&quot;margin-bottom: 0cm&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;left&quot; style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;Der Cache ist eine 35mm
+Filmdose mit folgendem Inhalt:&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;left&quot; style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;°Stift&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;left&quot; style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Tahoma, sans-serif&quot;&gt;&lt;font size=&quot;2&quot;&gt;°Logbuch&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;line-height: 100%&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</description>
+			<hints>Uvag1: Magnetismus trotzt Schwerkraft
+Uvag2: Nikotinsucht</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="259567">
+	<time>2008-01-25T00:00:00Z</time>
+	<geocacher>outlive</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;habe den cache heute mit besserem empfang neu eingemessen&lt;/p&gt;&lt;p&gt;und tats&amp;auml;chlich - er war tats&amp;auml;chlich um 15m off...&lt;/p&gt;&lt;p&gt;koordinaten aktualisiert!&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="259003">
+	<time>2008-01-22T00:00:00Z</time>
+	<geocacher>Robin888</geocacher>
+	<type>Found</type>
+	<text>LBDF! (=Logbuch defloriert!)&lt;br /&gt;
+&lt;br /&gt;
+Bereits Freitag war ich hier vor Ort, allerdings erfolglos. U.a., da ich keinen brauchbaren Empfang hatte (11km off!) und daher nicht viel Geduld mitgebracht hatte. Dort sind einfach zu viele potentielle Verstecke.&lt;br /&gt;
+&lt;br /&gt;
+Zuhause habe ich mir die Situation dann mal bei Google Earth angesehen und ernüchtert festgestellt, dass mir GPS-Empfang auch nicht viel weitergeholfen hätte. :-/&lt;br /&gt;
+&lt;br /&gt;
+Heute bin ich bei strahlendem Sonnenschein wieder hier gewesen. Mit anständigem GPS-Empfang. Zumindest theoretisch. Praktisch hingegen sprangen die Koordinaten, schickten mich hierhin und dorthin (nur nicht dorthin, wo der Waypoint tatsächlich liegt) bis ich mich damit abgefunden habe, dass mir GPS hier nicht weiterhilft.&lt;br /&gt;
+Unter Vergrößerung des Suchgebietes (und Lesen des Listings, ich hatte etwas Nano-artiges gesucht) konnte ich die Dose dann endlich finden und mich ins jungfräuliche Logbuch eintragen... :-)&lt;br /&gt;
+&lt;br /&gt;
+Aber die Koordinaten sollte der Owner noch mal prüfen. Die sind mind. 15m off!&lt;br /&gt;
+&lt;br /&gt;
+Dennoch danke für meinen ersten FTF! :-)</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.39688" lon="9.71580">
+	<time>2007-07-31T00:00:00Z</time>
+	<name>OC3D5A</name>
+	<desc>Moisburger Irrlicht</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=118767</url>
+	<urlname>Moisburger Irrlicht</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Moisburger Irrlicht</name>
+			<owner>gloeckchen</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Small</container>
+			<difficulty>1.5</difficulty>
+			<terrain>2.5</terrain>
+			<summary html="false">Mystery of Mesdeborg ;-)</summary>
+			<description html="false">&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;images/uploads/529D2E58-194A-0A18-3156-46E5D54E25D5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;font face=&quot;georgia,palatino&quot; size=&quot;5&quot;&gt;I&lt;/font&gt;&lt;font face=&quot;georgia,palatino&quot;&gt;n Moisburger Erde entspringt ein Licht,&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;font face=&quot;georgia,palatino&quot;&gt;es ist pechschwarz, drum seht ihr es nicht!&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;font face=&quot;georgia,palatino&quot;&gt;Geheimnis und Gut hats sich wohl bewart.&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;font face=&quot;georgia,palatino&quot;&gt;Bis der Mut&amp;#39;ge Mann es zu fangen vermag.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;hr /&gt;&lt;br /&gt;Nach meinen letzten beiden R&amp;auml;tselcaches mal was einfaches...&lt;br /&gt;Parken k&amp;ouml;nnt ihr hier 53 24,252N 9 42,189E&lt;br /&gt; Von hier ab braucht ihr nur noch ein paar feste Schuhe und eine gute Portion Mut ;-) &lt;br /&gt; (Wer will und kr&amp;auml;ftige Beine hat, kann von hier aus auch zu einer gr&amp;ouml;&amp;szlig;eren Wanderung aufbrechen)&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;
+Gel&amp;auml;nde- und Schwierigkeitsangaben hab ich nach bestem Wissen und Gewissen gemacht ...aber sagt bitte bescheid, wenn ihr es anders seht, oder ich mit meiner &amp;quot;Tip-Annahme&amp;quot; falsch liege (peinlich, hab garnicht drauf geachtet)&lt;/p&gt;&lt;p&gt;Anfangsinhalt:&lt;/p&gt;&lt;p&gt;Log+Bleistift&lt;br /&gt;2 Magnetkühe (für den,der nicht allein nach Hause will)&lt;br /&gt;2kl Taschenlampen (für den, der etwas länger brauchte ;-) ) &amp;nbsp;&lt;/p&gt;</description>
+			<hints>am Fuße einer Birke  [( :-&amp;quot;  hoffe zumindest es war eine ?! )]</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="232612">
+	<time>2007-11-21T00:00:00Z</time>
+	<geocacher>master505</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Hallo&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Auch wir haben mit super Hilfe von RasputinCP und Freundin den Cache gefunden, sch&amp;ouml;nes Versteck und auch passender Cache ;-)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;lg Matthias&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="231745">
+	<time>2007-11-18T00:00:00Z</time>
+	<geocacher>RasputinCP</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Nach kurzzeitiger Aufgabe den Cache dann doch gefunden.&lt;/p&gt;&lt;p&gt;Toll gemacht der Cache, vielen Dank daf&amp;uuml;r!&lt;/p&gt;&lt;p&gt;RasputinCP&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="222730">
+	<time>2007-10-24T00:00:00Z</time>
+	<geocacher>xibalba01</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Was ein toller Cache!&lt;/p&gt;&lt;p&gt;&amp;nbsp;Der Weg vom empfohlenen Parkplatz zum Cache war v&amp;ouml;llig okay;&lt;br /&gt;weder matschig noch zu lang.&lt;br /&gt;Dann die Suche nach dem Licht. Eine lange Suche!&lt;br /&gt;Irgendwann dann mal den Hint entschl&amp;uuml;sselt, aber wie D-Buddi schon schrieb h&amp;auml;tte man den auch offen in die Beschreibung packen k&amp;ouml;nnen.&lt;br /&gt;Einen Telefonjoker h&amp;auml;tte ich genutzt, aber ich hatte keinen&amp;nbsp; :(&lt;/p&gt;&lt;p&gt;Dann also weiter suchen. Und suchen. Und dann: nichts. &lt;br /&gt;Weitersuchen....&amp;nbsp; und gefunden!!&lt;/p&gt;&lt;p&gt;Ich will hier keinen Spoiler schreiben, dieses Versteck war einfach klasse !&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;quot;OC only&amp;quot; ist f&amp;uuml;r diesen Ort gar nicht mal so schlecht, wird sonst durch viele Cacher schnell kaputtgetrampelt (das drumherum, nicht der Cache).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;In: Schl&amp;uuml;sselband, Pin &amp;amp; Patronenh&amp;uuml;lse&lt;br /&gt;die entstaubten K&amp;uuml;he habe ich zum Schutz in eine T&amp;uuml;te gepackt&lt;br /&gt;Out: Lampe &amp;amp; Karabiner &lt;/p&gt;&lt;p&gt;TFTC!&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="199736">
+	<time>2007-08-23T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Ein Mann ist ein Mann, ist ein Mann, ist ein wenig doof &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-yell.gif&quot; border=&quot;0&quot; alt=&quot;Yell&quot; title=&quot;Yell&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&amp;nbsp;Nat&amp;uuml;rlich erst mal den Parkplatzhinweis ignoriert und mit dem Navi m&amp;ouml;glichst dich ranbringen lassen. Somit war mein Zuweg dann die ganze Zeit am Feldrand entlang, bei heutigem sch&amp;ouml;nen Wetter kein Problem wenn auch etwas anstrengend. Dann endlich beim Final angekommen nachdem mir auf den letzten Metern das eine oder andere rumliegende St&amp;uuml;ck Draht in den F&amp;uuml;ssen hing, keine Ahnung wo das herkam.&lt;/p&gt;&lt;p&gt;Und dann ging die Suche nach dem Final dran, ich mu&amp;szlig; sagen als ich nach langer Zeit endlich f&amp;uuml;ndig wurde und erfolgreich geloggt habe war ich komplett durchgeschwitzt und dann h&amp;uuml;bsch mit Sand bepudert, mu&amp;szlig; ausgesehen haben wie ein Berliner vom B&amp;auml;cker &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-tongue-out.gif&quot; border=&quot;0&quot; alt=&quot;Tongue out&quot; title=&quot;Tongue out&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;&lt;p&gt;Also die Terrainwertung w&amp;uuml;rde ich locker bei 3 sehen, man mu&amp;szlig; ja erst mal einen Weg finden und der Untergrund am Final ist auch nicht ganz einfach und an den Final mu&amp;szlig; man erst mal rankommen. Wie kommt man nur auf so ein Versteck &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&amp;nbsp;Die Difficulty-Wertung w&amp;uuml;rde ich selbst wenn der Hint im Text steht noch bei 2 sehen, so sogar eher bei 2,5-3 denn den Final mu&amp;szlig; man erst mal finden.&lt;/p&gt;&lt;p&gt;Vielleicht w&amp;auml;re noch ein Hinweis in der Beschreibung gut der auf die vielen Fr&amp;ouml;sche im Suchbereich hinweist, mit etwas R&amp;uuml;cksicht kann man da sicherlich Populationsverluste einschr&amp;auml;nken, bzw. v&amp;ouml;llig vermeiden.&lt;/p&gt;&lt;p&gt;Lange Rede, kurzer Sinn, cooler Cache mit Anspruch. Schade das du nicht auch bei gc listest, so gehen vielen Cachern wirklich sch&amp;ouml;ne Caches verloren.&lt;/p&gt;&lt;p&gt;No Trade&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="190854">
+	<time>2007-08-01T00:00:00Z</time>
+	<geocacher>Motorradscout</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Bestes Wetter, Sonne.&lt;/p&gt;&lt;p&gt;Also machte sich der Motorradscout diesesmal wieder mit dem Fahrrad auf dem Weg, das Mysterium um das Moisburger Irrlicht zu l&amp;ouml;sen.&lt;/p&gt;&lt;p&gt;Um 19:25 Uhr war die Tat vollbracht !&lt;/p&gt;&lt;p&gt;Sch&amp;ouml;ne Gegend, prima ausgedachtes Beh&amp;auml;ltnis.&lt;/p&gt;&lt;p&gt;1x Lampe raus, Gkl&amp;uuml;cksschwein rein. Danke.&lt;/p&gt;&lt;p&gt;Deine Einteilung Schwierigkeit und Gel&amp;auml;nde finde ich passend.&lt;/p&gt;&lt;p&gt;Habe noch versucht die Spuren / meine Spuren&amp;nbsp;etwas zu verwischen, da der Boden doch schnell als Wegweiser dienen k&amp;ouml;nnte.&lt;/p&gt;&lt;p&gt;Gru&amp;szlig; aus Moisburg&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.39918" lon="9.71212">
+	<time>2007-10-24T00:00:00Z</time>
+	<name>OC4676</name>
+	<desc>Trostpflastercache</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=121099</url>
+	<urlname>Trostpflastercache</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Trostpflastercache</name>
+			<owner>xibalba01</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Micro</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">nur ein Punkt für eure OC-Statistik, liegt auf dem Weg zum Moisburger Irrlicht</summary>
+			<description html="false">Dieser Cache ist absichtlich sehr einfach gehalten, denn er soll euch nur einen schnellen Statistikpunkt bringen. &lt;br /&gt;Er ist direkt an dem Weg vom empfohlenen Parkplatz des &amp;quot;&lt;a href=&quot;viewcache.php?cacheid=118767&quot;&gt;Moisburger Irrlicht&lt;/a&gt;&amp;quot; zum Cache.&lt;br /&gt; Ausserdem dient er denen, die das schwarze Licht dort nicht gesehen haben als kleines Trostpflaster.&lt;br /&gt;</description>
+			<hints>auf Kniehöhe in einem Baum, direkt am Weg</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="244060">
+	<time>2007-12-26T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;ja, diesmal war er da, allerdings diesmal v&amp;ouml;llig ungetarnt.&lt;/p&gt;&lt;p&gt;No Trade&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="232610">
+	<time>2007-11-21T00:00:00Z</time>
+	<geocacher>master505</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Juhu, auch Ich hab diesen kleinen Cache gefunden.&lt;/p&gt;&lt;p&gt;Gutes Versteck!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;mfg Matthias&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="231740">
+	<time>2007-11-18T00:00:00Z</time>
+	<geocacher>RasputinCP</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Auf dem Weg zum Irrlicht, den Cache gleich mal mitgenommen und gut gefunden. &lt;/p&gt;&lt;p&gt;Das Gewicht kann bestimmt kein Eichh&amp;ouml;rnchen wegschleppen&amp;nbsp; &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; /&gt;&lt;/p&gt;&lt;p&gt;Vielen Dank f&amp;uuml;r den Cache!&lt;/p&gt;&lt;p&gt;&amp;nbsp;RasputinCP &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="230726">
+	<time>2007-11-16T00:00:00Z</time>
+	<geocacher>xibalba01</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;Das Wettr&amp;uuml;sten hat begonnen!&lt;br /&gt;Der neue Cachebeh&amp;auml;lter ist aus Glas, hat einen Metalldeckel und ist dank eingeklebtem Gewicht 500g schwer. &lt;/p&gt;&lt;p&gt;War heute im dunkeln nach der Arbeit dort und musste feststellen, dass der neue Beh&amp;auml;lter etwas zu dick ist. Morgen vormittag nehme ich mir aber noch die Zeit und etwas Werkzeug, um das ganze muggelsicher zu gestalten. Der Cache kann ab sofort wieder gehoben werden.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Wenn das Glas morgen weg ist, &amp;uuml;berschreibe ich das Eichh&amp;ouml;rnchen in der Wikipedia mit Eichhorn...&amp;nbsp; &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; /&gt; &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="228915">
+	<time>2007-11-11T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Not Found</type>
+	<text>&lt;p&gt;so, heute erneuter Anlauf und siehe da, kein Cache mehr vor Ort...&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="228648">
+	<time>2007-11-10T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;erstaunlich, hier in dieser Ein&amp;ouml;de, bei Einbruch der D&amp;auml;mmerung und bescheidenstem Wetter sitzen hier irgendwelche Gestalten auf Feld und im Wald am Lagerfeuer... Damit hat sich das heute erst mal erledigt...&lt;/p&gt;&lt;p&gt;J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="226688">
+	<time>2007-11-04T00:00:00Z</time>
+	<geocacher>zauberratte</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Mein allererster Cache, gleich gefunden.&lt;/p&gt;&lt;p&gt;Die Kappe hat allerdings schon unter dem freundlichen Zuspruch der ortsans&amp;auml;ssigen Nager gelitten, sonst Spitze als Trostpflaster oder f&amp;uuml;r Anf&amp;auml;nger (wie mich!!!!!!) &lt;/p&gt;&lt;p&gt;Gru&amp;szlig;&lt;/p&gt;&lt;p&gt;zauberratte&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.46990" lon="9.68943">
+	<time>2008-01-06T00:00:00Z</time>
+	<name>OC4E08</name>
+	<desc>Klappt Nie</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=123038</url>
+	<urlname>Klappt Nie</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Klappt Nie</name>
+			<owner>kawahh</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Micro</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Es fährt eine S-Bahn nach Stade auch durch Buxtehude und dort klappt seit längerem etwas nie wieder</summary>
+			<description html="false">&lt;div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;
+                    &lt;span&gt;Zur Einweihung der S-Bahn nach Stade hier ein richtiger EisenbahnerCache.&lt;/span&gt;
+                &lt;/p&gt;
+                &lt;p&gt;
+                    &lt;span&gt;Das Objekt &amp;quot;klappt nie&amp;quot; finden und dort am Objekt suchen&lt;br /&gt;(Peilung 60 Grad, Entfernung 40 Meter).&lt;br /&gt;Man braucht &amp;uuml;brigens auf nichts zu klettern noch etwas &amp;uuml;berwinden,&lt;br /&gt;sondern kann sch&amp;ouml;n auf einem &amp;ouml;ffentlichen Weg stehen bleiben.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</description>
+			<hints>magnetisch, versteckt aber doch von aussen sichtbar</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="257076">
+	<time>2008-01-16T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;also vom Weg aus h&amp;auml;tten meine Arme nicht wirklich gereicht, etwas &amp;quot;anklettern&amp;quot; war schon angesagt.&lt;/p&gt;&lt;p&gt;No Trade&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="254647">
+	<time>2008-01-10T00:00:00Z</time>
+	<geocacher>xibalba01</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Der erste Versuch gestern nach Feierabend schlug fehl, da bei den Muggelhorden der Einsatz einer Taschenlampe zu auff&amp;auml;llig gewesen w&amp;auml;re. Ohne habe ich keine Dose gesehen.&lt;br /&gt;Heute dann in der Mittagspause die Zeitangabe (15 min) eingehalten und bequem geloggt.&lt;/p&gt;&lt;p&gt;Schon mein zweiter FTF in diesem Jahr&amp;nbsp; &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; /&gt;&lt;br /&gt;&lt;br /&gt;TFTC!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;P.S.: An diesem Standort hat &amp;quot;Es&amp;quot; auch schon mal geklappt, ist aber schon l&amp;auml;nger her.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.46430" lon="9.68463">
+	<time>2008-01-20T00:00:00Z</time>
+	<name>OC4F21</name>
+	<desc>Jenseits der Hölle   (Mini-Multi)</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=123319</url>
+	<urlname>Jenseits der Hölle   (Mini-Multi)</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Jenseits der Hölle   (Mini-Multi)</name>
+			<owner>xibalba01</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Multi</type>
+			<container>Micro</container>
+			<difficulty>1.5</difficulty>
+			<terrain>2.0</terrain>
+			<summary html="false">Es gibt einen Cache hinter der Hölle!</summary>
+			<description html="false">&lt;p&gt;&lt;strong&gt;&lt;font face=&quot;book antiqua,palatino&quot; size=&quot;3&quot;&gt;An den oben genannten Koordinaten findet ihr zwei Tore verschiedener Gr&amp;ouml;&amp;szlig;e. &lt;br /&gt;Beide f&amp;uuml;hren euch in eine jeweils andere Welt. Schaut euch beide Tore gut an, bevor ihr eure Auswahl durchschreitet!&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;font face=&quot;book antiqua,palatino&quot; size=&quot;3&quot;&gt;Das eine Tor f&amp;uuml;hrt direkt zur H&amp;ouml;lle, seid hier besonders vorsichtig!&amp;nbsp;&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;images/uploads/1AD9E5A6-189B-102B-870D-00163E0598ED.jpg&quot; alt=&quot;Hell&quot; title=&quot;Hell&quot; width=&quot;500&quot; height=&quot;341&quot; /&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;font face=&quot;book antiqua,palatino&quot; size=&quot;3&quot;&gt;&amp;nbsp;Das andere Tor f&amp;uuml;hrt euch zu einem Friedhof jenseits der H&amp;ouml;lle.&lt;br /&gt;&lt;/font&gt;&lt;/strong&gt;&lt;font face=&quot;book antiqua,palatino&quot; size=&quot;3&quot;&gt;&lt;em&gt;-Keine Bange, den Friedhof m&amp;uuml;sst ihr nicht betreten!-&lt;/em&gt;&lt;/font&gt;&lt;strong&gt;&lt;font face=&quot;book antiqua,palatino&quot; size=&quot;3&quot;&gt;&lt;br /&gt;Nur wenn ihr den Friedhof gesehen habt, k&amp;ouml;nnt ihr auch den Cache finden.&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;font face=&quot;book antiqua,palatino&quot; size=&quot;3&quot;&gt;&amp;nbsp;Die urbane Filmdose findet ihr in 40m Entfernung und 182&amp;deg; von den Startkoordinaten aus gesehen.&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;font face=&quot;book antiqua,palatino&quot; size=&quot;3&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;&lt;font face=&quot;book antiqua,palatino&quot; size=&quot;3&quot;&gt;F&amp;uuml;r euer Auto empfehle ich &lt;em&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;N 53&amp;deg; 27.848 &lt;br /&gt;E 009&amp;deg; 41.123&lt;br /&gt;&lt;font color=&quot;#ff0000&quot;&gt;An der B73 k&amp;ouml;nnt ihr nicht parken!&lt;/font&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+			<hints>drei Fenster in der Wand, in linker Spalte, am Boden</hints>
+			<licence></licence>
+			<logs>
+				
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.70715" lon="9.99047">
+	<time>2007-04-16T00:00:00Z</time>
+	<name>OC33F7</name>
+	<desc>Moorbekbrücke</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=116364</url>
+	<urlname>Moorbekbrücke</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Moorbekbrücke</name>
+			<owner>derScratchy</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Micro</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false"></summary>
+			<description html="false">Nahe des Rathauses von Norderstedt befindet sich der Moorbekpark. Er ist benannt nach einem kleinen Fluss genau wie einige andere Dinge in der Umgebung. Zum Beispiel die Moorbekpassage, das Moorbekrondeel, die Moorbekhalle oder auch die Moorbekschule.&lt;br /&gt;
+&lt;br /&gt;
+Im August 2001 erhielt ein K&amp;uuml;nstler namens Jochem von der Stadt Norderstedt eine Lizenz um die grauen Betonw&amp;auml;nde unter der Moorbekbr&amp;uuml;cke in fr&amp;ouml;hliche Fl&amp;auml;chen mit k&amp;uuml;nstlerischem Ambiente zu verwandeln.&lt;br /&gt;
+Leider sind seine Werke heute durch Schmierereien nicht mehr ganz so sch&amp;ouml;n wie fr&amp;uuml;her, aber sie lohnen sich noch immer f&amp;uuml;r einen kleinen Blick.&lt;br /&gt;
+&lt;br /&gt;
+Den Cache kann man auch gut mit einem Spaziergang durch den Park und mit einigen anderen Caches verbinden.</description>
+			
+			<licence></licence>
+			<logs>
+				
+<log id="243693">
+	<time>2007-12-25T00:00:00Z</time>
+	<geocacher>Rollo</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Nach einem n&amp;ouml;tigen spaziergang, gefunden.&lt;/p&gt;&lt;p&gt;Frohe Weihnachten&lt;/p&gt;&lt;p&gt;Rollo&lt;/p&gt;</text>
+</log>
+
+
+<log id="230631">
+	<time>2007-11-16T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;erst in der falschen Etage gesucht, dann aber doch recht schnell f&amp;uuml;ndig geworden und mit offenem Schn&amp;uuml;rband ist eine gute Tarnung zu erreichen.&lt;/p&gt;&lt;p&gt;No Trade&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="229977">
+	<time>2007-11-14T00:00:00Z</time>
+	<geocacher>tomN1</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Mein erster Chache!!!! &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&amp;nbsp;Suche seit drei Tagen aber jetzt habe ich in gefunden. Tolles Versteck - aber viele Muggels. &lt;/p&gt;&lt;p&gt;Danke f&amp;uuml;r den Chache&lt;/p&gt;&lt;p&gt;Gru&amp;szlig; Thomas&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="226875">
+	<time>2007-11-04T00:00:00Z</time>
+	<geocacher>Borke25</geocacher>
+	<type>Found</type>
+	<text>beim zweitem Versuch gefunden und dank 2 Fahrr&amp;auml;der auch ohne gro&amp;szlig;es Aufsehen geloggt - sch&amp;ouml;nes Versteck !!!!&amp;nbsp; DANKE !!!!</text>
+</log>
+
+
+<log id="171491">
+	<time>2007-05-28T00:00:00Z</time>
+	<geocacher>Pettersson</geocacher>
+	<type>Found</type>
+	<text>Eigentlich wollten wir ja hier schon am 27.05.07 zuschlagen (siehe NorMi) aber nach &amp;quot;Pirates of the Carribean&amp;quot; war die Muggeldichte hier zu hoch (Obwohl so richtig muggelfrei ist es hier wahrscheinlich nur mitten in der Nacht). Also heute noch mal hin und relativ schnell gefunden.&lt;br /&gt;
+Danke für den Cache&lt;br /&gt;
+&lt;br /&gt;
+Pettersson</text>
+</log>
+
+
+<log id="169516">
+	<time>2007-05-22T00:00:00Z</time>
+	<geocacher>jehe</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Jetzt habe ich ihn gefunden, tolles Versteck. Bei der ersten Suche hatte ich in eine total andere Richtung gedacht (die Ratten waren Schuld).&lt;/p&gt;&lt;p&gt;Gru&amp;szlig; Jehe&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="168795">
+	<time>2007-05-20T00:00:00Z</time>
+	<geocacher>jehe</geocacher>
+	<type>Not Found</type>
+	<text>Das sollte mein zweiter Fund werden, doch leider war ich nicht erfolgreich. Ratten waren nicht zu sehen, das lag wohl daran, dass ein Hund dabei war. Ich komme wieder.&lt;br /&gt;
+&lt;br /&gt;
+Gruß Jehe</text>
+</log>
+
+
+<log id="164785">
+	<time>2007-05-07T00:00:00Z</time>
+	<geocacher>swolls3s</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute bei Regen waren hier trotzdem noch echt viel Leute unterwegs!&lt;/p&gt;&lt;p&gt;Trotzdem konnte ich den Cache unbemerkt durch Abschirmung mit Fahrrad und K&amp;ouml;rper bergen.&lt;/p&gt;&lt;p&gt;Die Malerei unter der Br&amp;uuml;cke ist auch echt interessant. Allerdings liefen mir auch ein paar ziemlich gro&amp;szlig;e Exemplare von Ratten &amp;uuml;ber den Weg.&lt;/p&gt;&lt;p&gt;Danke f&amp;uuml;r den Cache&lt;/p&gt;&lt;p&gt;LG&amp;nbsp; Basti&lt;/p&gt;</text>
+</log>
+
+
+<log id="159185">
+	<time>2007-04-19T00:00:00Z</time>
+	<geocacher>Schiezo</geocacher>
+	<type>Found</type>
+	<text>Sehr schwer den Cache aus seinem Versteck zu holen, da viele Zuschauer anwesend sind. Aber nach zurzem warten, ging dann alles fix.^^ </text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.72000" lon="10.02063">
+	<time>2007-02-07T00:00:00Z</time>
+	<name>OC2E71</name>
+	<desc>Da kuckst Du inne Röhre!</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=114950</url>
+	<urlname>Da kuckst Du inne Röhre!</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Da kuckst Du inne Röhre!</name>
+			<owner>Hammergott</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Small</container>
+			<difficulty>2.0</difficulty>
+			<terrain>3.0</terrain>
+			<summary html="false">Der Cache ist unterirdisch gut aufgehoben! ;-)</summary>
+			<description html="false">&lt;p&gt;Zu den ber&amp;uuml;hmten Uhrzeiten ist mit dem geh&amp;auml;uften Auftreten von Muggels zu rechen. Beim suchen solltet Ihr Outdoorkleidung bevorzugen, da es sonst im schlimmsten Fall recht unangenehm werden k&amp;ouml;nnte, in den gr&amp;uuml;neren Jahreszeiten auf jeden Fall. Das Gel&amp;auml;nde selbst ist ein wenig verwachsen ein gewisses gef&amp;auml;lle mit dem Hang nach unten ist zu bef&amp;uuml;rchten. Wenn ihr den falschen Weg nehmt, wird der Weg ein wenig feucht -&amp;nbsp;insofern rate ich festes Schuhwerk anzulegen.&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-innocent.gif&quot; border=&quot;0&quot; alt=&quot;Innocent&quot; title=&quot;Innocent&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Anfangsinhalt:&lt;/p&gt;&lt;p&gt;ein Schl&amp;uuml;sselband mit einen gr&amp;uuml;nen Plus&lt;/p&gt;&lt;p&gt;ein Miniradio mit Kopfh&amp;ouml;rern und Taschenlampe&lt;/p&gt;&lt;p&gt;ein PS2 zu DIN Adapter f&amp;uuml;r&amp;acute;n Computer von Logitech&lt;/p&gt;&lt;p&gt;ein Zettelhalter ebenfalls f&amp;uuml;r den Computer zum abschreiben&lt;/p&gt;&lt;p&gt;ein Volkswagen Feuerzeug&lt;/p&gt;&lt;p&gt;und ein MILKA Eierbecher&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Logbuch und Stift &amp;quot;please let it inside&amp;quot;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Falls noch jemand ein sch&amp;ouml;nes Logbuch &amp;uuml;ber hat freut sich der Cache - THX&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Viel Spa&amp;szlig; beim st&amp;ouml;bern&lt;/p&gt;</description>
+			<hints>Wie der Name schon sagt, aus der Position des Cache schaut ihr in die Röhre.</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="216111">
+	<time>2007-10-07T00:00:00Z</time>
+	<geocacher>Team Lilli</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;YES, YES, YES :-)))&lt;/p&gt;&lt;p&gt;Auch wenn es etwas ekelig beim suchen war, haben wir den Cache gefunden.&lt;/p&gt;&lt;p&gt;Vielen Dank.&lt;/p&gt;</text>
+</log>
+
+
+<log id="214173">
+	<time>2007-10-03T00:00:00Z</time>
+	<geocacher>Team Tateu</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Waren mit dem Schwarzf&amp;uuml;ssler Team unterwegs kein schlechtes Versteck aber trotzdem schnell gefunden um 15 Uhr 30, Super Wetter .&lt;/p&gt;&lt;p&gt;&amp;nbsp;Vielen Dank&amp;nbsp; &lt;/p&gt;&lt;p&gt;mfg Team Tateu&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="214255">
+	<time>2007-10-03T00:00:00Z</time>
+	<geocacher>Schwarzfüssler</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Endlich nach dem 2. Versuch gefunden...&lt;/p&gt;&lt;p&gt;MfG Die Schwarzf&amp;uuml;ssler&lt;/p&gt;</text>
+</log>
+
+
+<log id="210227">
+	<time>2007-09-23T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;irgendwie hab ich ganz sch&amp;ouml;n lange gesucht, aber eher aus eigener Schusseligkeit und bin dann aber doch noch f&amp;uuml;ndig geworden. Sch&amp;ouml;ne Cachedichte hier...&lt;/p&gt;&lt;p&gt;No Trade&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="164746">
+	<time>2007-05-07T00:00:00Z</time>
+	<geocacher>swolls3s</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Diesen Cache heute schnell gefunden. Die Vegetation rund herum ist aber schon heftig!&lt;/p&gt;&lt;p&gt;Und wo kann man schon 2 Caches im Umkreis von 20 m finden *g*&lt;/p&gt;&lt;p&gt;Trade: In: hackisack Out: Hase&lt;/p&gt;&lt;p&gt;Danke f&amp;uuml;r den Cache&lt;/p&gt;&lt;p&gt;LG Basti&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="162387">
+	<time>2007-04-21T00:00:00Z</time>
+	<geocacher>Sobo</geocacher>
+	<type>Found</type>
+	<text>Im Anschluss an den Cito-Event haben wir das Doeschen in der Gruppe gesucht. Wobinich war hier nicht zu halten und hielt den Cache nach kurzer Suche freudestrahlend in den Haenden. Als Belohnung durfte er uns auch alle im Logbuch eintragen. Danke Willi!&lt;br /&gt;
+Vielen Dank fuer den Cache,&lt;br /&gt;
+Sobo</text>
+</log>
+
+
+<log id="153253">
+	<time>2007-03-30T00:00:00Z</time>
+	<geocacher>antenne</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Gut, dass ich den Cacheausdruck dabei hatte. So konnte ich vor Ort feststellen, dass es neue Koordinaten gab. Damit konnte ich die Dose dann auch gut finden.&lt;/p&gt;&lt;p&gt;Hoffentlich &amp;uuml;berlebt der Cache noch einige, denn hier solle abgez&amp;auml;unt werden f&amp;uuml;r die Landesgartenschau 2011.&lt;/p&gt;&lt;p&gt;Danke f&amp;uuml;r den Cache und viele Gr&amp;uuml;&amp;szlig;e, Uwe und Anette&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="152254">
+	<time>2007-03-25T00:00:00Z</time>
+	<geocacher>Borke25</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;super Wetter , zum Gl&amp;uuml;ck war es trocken und trotz Sonntagnachmittag wenig Muggels unterwegs - sch&amp;ouml;ner Caches &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&amp;nbsp;Danke&lt;/p&gt;</text>
+</log>
+
+
+<log id="147313">
+	<time>2007-03-04T00:00:00Z</time>
+	<geocacher>Oblomov</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Na also, geht doch! Heute morgen passte gar nichts. 30 Minuten gesucht und wieder abgezogen. Frust, wo doch bald Ostern ist ;-)&amp;nbsp; Zu Hause noch einmal genau nachgelesen - und siehe da, ich war mit den alten Koordinaten unterwegs. Wieder hin, richtig gepeilt und nach ein paar Minuten gefunden. Im Log steht, wie ich den Namen des Caches fehlgedeutet habe. Muggels gibts wirklich reichlich. Wenn der Cache dann erst einmal von 50 Leuten gefunden wurde ...  &lt;/p&gt;&lt;p&gt;Raus: Feuerzeug. Rein: Taschenmesser. Danke!&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="145097">
+	<time>2007-02-20T00:00:00Z</time>
+	<geocacher>Annagram</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Im Logbuch bin ich der zweite hinter ageta, aber offenbar bin ich
+der erste und einzige Finder mit den alten Koordinaten, die ich allein
+auf dem Ger&amp;auml;t hatte.&lt;/p&gt;&lt;p&gt;Direkt an den Koordinaten konnte ich nichts
+finden. Da ich die Cachebeschreibung nur vage in Erinnerung hatte,
+sagte mir der Cachename irgendwie nichts, hat mir aber dann doch
+geholfen, die Dose finden zu k&amp;ouml;nnen.&lt;/p&gt;&lt;p&gt;&amp;lt;&amp;gt;&amp;nbsp;Trotz der Abweichung gefunden. Das gef&amp;auml;llt mir doch wieder mal.&lt;/p&gt;&lt;p&gt;&amp;nbsp;Im nachhinein habe ich den Hint gelesen und jetzt habe ich auch verstanden, wie der Cachename zustande kommt.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Vielen Dank&lt;/p&gt;&lt;p&gt;AnnaGram&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="144961">
+	<time>2007-02-20T00:00:00Z</time>
+	<geocacher>ageta</geocacher>
+	<type>Found</type>
+	<text>Juhu, ein FTF&amp;nbsp;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt; &lt;br /&gt;Und das fast zwei Wochen nach Ver&amp;ouml;ffentlichung !!! &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-surprised.gif&quot; border=&quot;0&quot; alt=&quot;Surprised&quot; title=&quot;Surprised&quot; /&gt;&lt;br /&gt;Allerdings lag das weniger an mir, sondern an den ersten, &amp;quot;missgl&amp;uuml;ckten&amp;quot; Koordinaten. Die nochmals vom Cacheleger eingemessenen Koordinaten&lt;br /&gt; passen nun sehr genau.&lt;br /&gt;&lt;br /&gt;Ich bin recht froh, dass hier nicht im Sommer suchen muss...&lt;br /&gt;Die Dose ist sch&amp;ouml;n und das Versteck gut gew&amp;auml;hlt. Ich hoffe, die wird dort nicht von spielenden Kindern entfernt.&lt;br /&gt;Muggles gibt es dort tats&amp;auml;chlich eine ganze Menge, aber die st&amp;ouml;rten mich nicht gro&amp;szlig;artig.&lt;br /&gt;&lt;br /&gt;Vielen Dank f&amp;uuml;r den Cache&lt;br /&gt;&lt;br /&gt;Rin: Milka Hase&lt;br /&gt;Rut: Milka Eierbecher&lt;br /&gt;&lt;br /&gt; </text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.25167" lon="10.41333">
+	<time>2007-08-08T00:00:00Z</time>
+	<name>OC3E28</name>
+	<desc>Lüneburger Stolpersteine</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=118973</url>
+	<urlname>Lüneburger Stolpersteine</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Unavailable" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Lüneburger Stolpersteine</name>
+			<owner>Sigmund_Freud</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Multi</type>
+			<container>Virtual</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Finde einen Stolperstein in Lüneburg</summary>
+			<description html="false">&lt;p&gt;Dieser Cache nach an die Idee von Thoto&amp;nbsp;&lt;a href=&quot;viewcache.php?cacheid=114618&quot; target=&quot;_blank&quot;&gt;K&amp;ouml;lner Stolpersteine&lt;/a&gt;&lt;a href=&quot;viewcache.php?cacheid=114618&quot; target=&quot;_blank&quot;&gt; (&lt;/a&gt;&lt;a href=&quot;viewcache.php?cacheid=114618&quot; target=&quot;_blank&quot;&gt;OC2D25&lt;/a&gt;&lt;a href=&quot;viewcache.php?cacheid=114618&quot; target=&quot;_blank&quot;&gt;)&lt;/a&gt; angelehnt &lt;/p&gt;&lt;p&gt;Die Koordinaten brauchen nicht besucht werden. Sie liegen im Wasser.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;&lt;strong&gt;&amp;bdquo;Hier wohnte&amp;ldquo;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Initiativen,
+Schulen, Angeh&amp;ouml;rige und Hinterbliebene recherchieren die Daten von
+Menschen, die w&amp;auml;hrend der Zeit des Nationalsozialismus verfolgt,
+deportiert und ermordet wurden. Zu den von den Nationalsozialisten
+w&amp;auml;hrend des &amp;quot;Dritten Reiches&amp;quot; verfolgten Gruppen geh&amp;ouml;rten Juden, Sinti
+und Roma, politisch Andersdenkende, Homosexuelle, Zeugen Jehovas und
+Euthanasieopfer. Eine Recherche-Hilfe stellt die Datenbank der
+Gedenkst&amp;auml;tte Yad Vashem in Jerusalem dar.&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;Liegen
+die Daten vor, fertigt Demnig einen Betonw&amp;uuml;rfel mit 10 Zentimeter
+Kantenl&amp;auml;nge, die mit einer Messingplatte abschlie&amp;szlig;t. Diese versieht er
+in der Regel mit dem Schriftzug Hier wohnte (in Zittau auch: Hier
+lebte, in Frankfurt (Oder) auch: Hier wirkte), dem Namen, Geburtsjahr
+und dem Schicksal des Menschen, meist das Datum der Deportation oder
+des Todes. Den Stein l&amp;auml;sst er jeweils b&amp;uuml;ndig in den B&amp;uuml;rgersteig oder
+die Stra&amp;szlig;e direkt vor der Haust&amp;uuml;r zur letzten Wohnung des Opfers ein.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;Um diesen Cache zu loggen, erf&amp;uuml;lle folgende Aufgabe:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;1. Finde einen Stolperstein im L&amp;uuml;neburger Stadtgebiet.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;2. Mache ein lesbares Foto von dem Stein und deinem GPS und deinem Cachernamen.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;3. Logge zusammen mit dem Foto &lt;/font&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;(bitte mache die Koords unkenntlich)&lt;/font&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;!&lt;/font&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</description>
+			
+			<licence></licence>
+			<logs>
+				
+<log id="194417">
+	<time>2007-08-08T00:00:00Z</time>
+	<geocacher>Sigmund_Freud</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;Mal sehen, ob ich gen&amp;uuml;gend finde, um einen Multi daraus machen kann, denn die Virtuelle Version ist nicht gerade mein Favorit. Also bitte erstmal waren, ab Oktober wirds hier wohl losgehen.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Gru&amp;szlig;,&lt;/p&gt;&lt;p&gt;Thomas&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.24077" lon="10.40355">
+	<time>2006-06-26T00:00:00Z</time>
+	<name>OC20C8</name>
+	<desc>Google Maps (Badewelten/Pools)</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=111425</url>
+	<urlname>Google Maps (Badewelten/Pools)</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Google Maps (Badewelten/Pools)</name>
+			<owner>Sigmund_Freud</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Other</type>
+			<container>Virtual</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false"></summary>
+			<description html="false">Berschreibung nach  Mic@:&lt;br /&gt;
+Hier die Aufgabe:&lt;br /&gt;
+&lt;br /&gt;
+Finde per Google Maps EINE Badelandschaft oder EINEN großen Pool!&lt;br /&gt;
+&lt;br /&gt;
+ACHTUNG ab 04.03.07 :&lt;br /&gt;
+        - keine Badeseen mehr erlaubt.&lt;br /&gt;
+        - Es müssen HYPERLINKS zur Karte erstellt werden&lt;br /&gt;
+&lt;br /&gt;
+Vorgehensweise:&lt;br /&gt;
+a) Rufe http://maps.google.de/ auf.&lt;br /&gt;
+b) Positioniere Dich zu dem Objekt Deiner Wahl, und zwar&lt;br /&gt;
+ohne Ortseingabe, sonst funktioniert Punkt e) nicht!&lt;br /&gt;
+c) Gehe auf Satelliten-Modus und die höchste Zoomstufe.&lt;br /&gt;
+d) Zentriere die Karte per Doppelklick auf das Objekt.&lt;br /&gt;
+e) Klicke auf &amp;quot;Link zu dieser Seite&amp;quot;.&lt;br /&gt;
+f) Logge mit diesem erzeugten Link - Fertig!&lt;br /&gt;
+&lt;br /&gt;
+Soweit möglich auch eine kurze Info zur Location.&lt;br /&gt;
+&lt;br /&gt;
+Als &amp;quot;gefunden&amp;quot; werden nur die Links von mir akzeptiert, die man auch als&lt;br /&gt;
+Badelandschaft/Pool erkennen kann. Wenn Du Pech hast und die Auflösung der Karte&lt;br /&gt;
+ist zu ungenau, dann mußt Du Dir (leider) ein anderes Ort ergooglen.&lt;br /&gt;
+Jeder darf natürlich nur einmal (1) loggen, und diese Lokation ist damit&lt;br /&gt;
+auch für andere vergeben, kann also nicht noch einmal geloggt werden.&lt;br /&gt;
+Happy Google Mapping, Mic@ &amp;amp; Sigmund_Freud&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+PS.&lt;br /&gt;
+Dies soll eine Cache Serie werden. Du bist herzlich dazu eingeladen,&lt;br /&gt;
+Dir ähnliche Google Maps Suchobjekte auszudenken. Bitte verwende dabei&lt;br /&gt;
+aber dasselbe Namensschema, also &amp;quot;Google Maps (meineSuche)&amp;quot;.&lt;br /&gt;
+Dies erleichtert die Suche nach anderen &amp;quot;Google Maps Caches&amp;quot; erheblich.&lt;br /&gt;
+</description>
+			
+			<licence></licence>
+			<logs>
+				
+<log id="258856">
+	<time>2008-01-21T00:00:00Z</time>
+	<geocacher>Rambo</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Das ist das Freibad in &lt;font size=&quot;2&quot;&gt;&amp;quot;Babenhausen&amp;quot;&lt;/font&gt; &lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.de/maps?ll=49.956141,8.9617847&amp;amp;z=18&amp;amp;t=h&amp;amp;hl=de&quot;&gt;http://maps.google.de/maps?ll=49.956141,8.9617847&amp;amp;z=18&amp;amp;t=h&amp;amp;hl=de&amp;nbsp;&lt;/a&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="258857">
+	<time>2008-01-21T00:00:00Z</time>
+	<geocacher>Rambo</geocacher>
+	<type>Found</type>
+	<text>&lt;pre&gt;Hier &lt;br /&gt;&lt;br /&gt;&lt;p&gt;Das ist das Freibad in &amp;quot;&lt;font size=&quot;2&quot;&gt;Seligenstadt&lt;/font&gt;&amp;quot;&lt;br /&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.de/maps?ll=50.035922,8.9855855&amp;amp;z=18&amp;amp;t=h&amp;amp;hl=de&quot;&gt;http://maps.google.de/maps?ll=50.035922,8.9855855&amp;amp;z=18&amp;amp;t=h&amp;amp;hl=de&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/pre&gt;</text>
+</log>
+
+
+<log id="249689">
+	<time>2008-01-03T00:00:00Z</time>
+	<geocacher>xibalba01</geocacher>
+	<type>Found</type>
+	<text>&lt;p align=&quot;center&quot;&gt;Das kleine, aber feine Freibad in der Weltstadt Buxtehude hat neben dem normalen Sportbecken ein nahezu ungechlortes Naturbecken mit einer Sandschicht auf dem Boden.&lt;br /&gt;Im Bild ist das Naturbecken farblich der umliegenden Wiese sehr &amp;auml;hnlich, daher mal genau hinsehen!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;amp;ll=53.458735,9.685671&amp;amp;spn=0.002191,0.005021&amp;amp;t=h&amp;amp;z=18&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Freibad Buxtehude&quot;&gt;Klick&amp;nbsp;&lt;/a&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="244947">
+	<time>2007-12-27T00:00:00Z</time>
+	<geocacher>Wirbel</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Hier haben wir mal unseren Urlaub verbracht. Das Pool befindet sich in Side, T&amp;uuml;rkei&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;amp;ll=36.755192,31.437904&amp;amp;spn=0.002097,0.004989&amp;amp;t=h&amp;amp;z=18&amp;amp;om=1&quot;&gt;http://maps.google.de/?ie=UTF8&amp;amp;ll=36.755192,31.437904&amp;amp;spn=0.002097,0.004989&amp;amp;t=h&amp;amp;z=18&amp;amp;om=1&lt;/a&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="240310">
+	<time>2007-12-11T00:00:00Z</time>
+	<geocacher>repridi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Panoramabad Georgsmarienh&amp;uuml;tte (s&amp;uuml;dlich von Osnabr&amp;uuml;ck)&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;amp;t=h&amp;amp;om=1&amp;amp;ll=52.200532,8.047459&amp;amp;spn=0.001572,0.005236&amp;amp;z=18&quot; target=&quot;blank&quot;&gt;http://maps.google.de/?ie=UTF8&amp;amp;t=h&amp;amp;om=1&amp;amp;ll=52.200532,8.047459&amp;amp;spn=0.001572,0.005236&amp;amp;z=18&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gru&amp;szlig;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;statpics/121204.jpg&quot; alt=&quot;Opencaching.de-Statistik von repridi&quot; title=&quot;Opencaching.de-Statistik von repridi&quot; /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="236547">
+	<time>2007-12-01T00:00:00Z</time>
+	<geocacher>lichtwelle_und_SibSerag</geocacher>
+	<type>Found</type>
+	<text>Das Palm Beach in Stein bei Nürnberg.&lt;br /&gt;
+&lt;br /&gt;
+Nettes Freizetbad mit riesen Saunalandschaft.&lt;br /&gt;
+&lt;br /&gt;
+http://maps.google.de/maps?f=q&amp;amp;hl=de&amp;amp;geocode=&amp;amp;time=&amp;amp;date=&amp;amp;ttype=&amp;amp;q=stein&amp;amp;ie=UTF8&amp;amp;ll=49.405978,11.006026&amp;amp;spn=0.002611,0.005021&amp;amp;t=h&amp;amp;z=18&amp;amp;om=1</text>
+</log>
+
+
+<log id="223883">
+	<time>2007-10-27T00:00:00Z</time>
+	<geocacher>Eimis</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Wie ihr seht hat mein Elternhaus einen Pool.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.de/maps?f=q&amp;amp;hl=de&amp;amp;geocode=&amp;amp;time=&amp;amp;date=&amp;amp;ttype=&amp;amp;q=hawks+cay+resort&amp;amp;sll=24.942561,-80.615873&amp;amp;sspn=0.035411,0.05785&amp;amp;ie=UTF8&amp;amp;ll=50.731045,7.119673&amp;amp;spn=0.000193,0.000452&amp;amp;t=k&amp;amp;z=21&amp;amp;om=1&quot;&gt;http://maps.google.de/maps?f=q&amp;amp;hl=de&amp;amp;geocode=&amp;amp;time=&amp;amp;date=&amp;amp;ttype=&amp;amp;q=hawks+cay+resort&amp;amp;sll=24.942561,-80.615873&amp;amp;sspn=0.035411,0.05785&amp;amp;ie=UTF8&amp;amp;ll=50.731045,7.119673&amp;amp;spn=0.000193,0.000452&amp;amp;t=k&amp;amp;z=21&amp;amp;om=1&lt;/a&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="216781">
+	<time>2007-10-08T00:00:00Z</time>
+	<geocacher>steppet</geocacher>
+	<type>Found</type>
+	<text>Die Soltau-Therme zwischen B&amp;ouml;hme und Wald gelegen.&lt;br /&gt;http://maps.google.de/?ie=UTF8&amp;amp;ll=52.992264,9.839737&amp;amp;spn=0.00175,0.003294&amp;amp;t=k&amp;amp;z=18&amp;amp;om=1&lt;br /&gt;&lt;br /&gt;gru&amp;szlig; steppet&lt;br /&gt;</text>
+</log>
+
+
+<log id="197226">
+	<time>2007-08-16T00:00:00Z</time>
+	<geocacher>madcacher</geocacher>
+	<type>Found</type>
+	<text>&lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;amp;ll=48.907781,9.237598&amp;amp;spn=0.00153,0.003648&amp;amp;t=k&amp;amp;z=18&amp;amp;om=1&quot; target=&quot;_blank&quot;&gt;Freibad Ludwigsburg&lt;/a&gt; eine recht sch&amp;ouml;nes Bad, acuh f&amp;uuml;r kinder gut geeignet!&lt;br /&gt; </text>
+</log>
+
+
+<log id="195962">
+	<time>2007-08-12T00:00:00Z</time>
+	<geocacher>Big-Dad-99</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Freibad Raisdorf bei Kiel in Schleswig Holstein. Da war ich selbst schon &amp;ouml;fter.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.com/maps?q=54.3195+10.1661&amp;amp;ie=UTF8&amp;amp;ll=54.286892,10.246124&amp;amp;spn=0.002192,0.004989&amp;amp;t=h&amp;amp;z=18&amp;amp;om=1&quot;&gt;http://maps.google.com/maps?q=54.3195+10.1661&amp;amp;ie=UTF8&amp;amp;ll=54.286892,10.246124&amp;amp;spn=0.002192,0.004989&amp;amp;t=h&amp;amp;z=18&amp;amp;om=1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Tolle Idee diese Caches!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="186644">
+	<time>2007-07-21T00:00:00Z</time>
+	<geocacher>gartentaucher</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Das Rosenbad in Fulda:&lt;/p&gt;&lt;p&gt;http://maps.google.de/maps?f=q&amp;amp;hl=de&amp;amp;geocode=&amp;amp;q=N+50%C2%B0+30.000+E+009%C2%B0+40.000&amp;amp;ie=UTF8&amp;amp;ll=50.545819,9.669042&amp;amp;spn=0.001796,0.004324&amp;amp;t=k&amp;amp;z=18&amp;amp;om=1
+&lt;/p&gt;&lt;p&gt;&amp;nbsp;Da gehe ich zwar nie schwimmen, aber Badeseen sind ja nicht mehr erlaubt. &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; /&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="180787">
+	<time>2007-06-28T00:00:00Z</time>
+	<geocacher>Cachmachine</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Herzogenriedbad, Mannheim, Baden-W&amp;uuml;rttemberg&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;amp;ll=49.503176,8.478428&amp;amp;spn=0.002362,0.004989&amp;amp;t=k&amp;amp;z=18&amp;amp;om=1&quot;&gt;http://maps.google.de/?ie=UTF8&amp;amp;ll=49.503176,8.478428&amp;amp;spn=0.002362,0.004989&amp;amp;t=k&amp;amp;z=18&amp;amp;om=1&lt;/a&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="180517">
+	<time>2007-06-26T00:00:00Z</time>
+	<geocacher>Startpunkt</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Freizeitbad Wonnemar in Wismar (Meckl.-Vorp.)&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.com/?ie=UTF8&amp;amp;ll=53.887345,11.449122&amp;amp;spn=0.001657,0.004989&amp;amp;t=k&amp;amp;z=18&amp;amp;om=1&quot;&gt;http://maps.google.com/?ie=UTF8&amp;amp;ll=53.887345,11.449122&amp;amp;spn=0.001657,0.004989&amp;amp;t=k&amp;amp;z=18&amp;amp;om=1&lt;/a&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="173491">
+	<time>2007-06-03T00:00:00Z</time>
+	<geocacher>doctress</geocacher>
+	<type>Found</type>
+	<text>Bergschwimmbad in Erlenbach am Main:&lt;br /&gt;
+http://maps.google.de/maps?ll=49.800556,9.1668152&amp;amp;z=18&amp;amp;hl=de&amp;amp;t=h</text>
+</log>
+
+
+<log id="173495">
+	<time>2007-06-03T00:00:00Z</time>
+	<geocacher>doctress</geocacher>
+	<type>Found</type>
+	<text>Freibad mit Großwasserrutsche in 63911 Klingenberg am Main, OT Trennfurt:&lt;br /&gt;
+http://maps.google.de/maps?ll=49.777954,9.1794891&amp;amp;z=18&amp;amp;hl=de&amp;amp;t=h</text>
+</log>
+
+
+<log id="169787">
+	<time>2007-05-24T00:00:00Z</time>
+	<geocacher>JoFrie</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;a href=&quot;http://maps.google.de/?ie=UTF8&amp;amp;t=h&amp;amp;om=1&amp;amp;ll=53.299976,10.376748&amp;amp;spn=0.002151,0.005021&amp;amp;z=18&quot; target=&quot;_blank&quot; title=&quot;Freibad Bardowick&quot;&gt;http://maps.google.de/?ie=UTF8&amp;amp;t=h&amp;amp;om=1&amp;amp;ll=53.299976,10.376748&amp;amp;spn=0.002151,0.005021&amp;amp;z=18&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Freibad Bardowick&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="164724">
+	<time>2007-05-07T00:00:00Z</time>
+	<geocacher>Nella &amp; Mumelsmak</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Die Bade-/Erlebniswelt &amp;quot;D&amp;uuml;sselstrand&amp;quot; in D&amp;uuml;sseldorf:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://maps.google.de/maps?f=l&amp;amp;hl=de&amp;amp;q=Freizeitbad&amp;amp;near=Neuss&amp;amp;ie=UTF8&amp;amp;ll=51.224353,6.810408&amp;amp;spn=0.001194,0.002457&amp;amp;t=k&amp;amp;z=19&amp;amp;iwloc=B&amp;amp;om=1&quot;&gt;http://maps.google.de/maps?f=l&amp;amp;hl=de&amp;amp;q=Freizeitbad&amp;amp;near=Neuss&amp;amp;ie=UTF8&amp;amp;ll=51.224353,6.810408&amp;amp;spn=0.001194,0.002457&amp;amp;t=k&amp;amp;z=19&amp;amp;iwloc=B&amp;amp;om=1&lt;/a&gt;&lt;/p&gt;&lt;div&gt;Kettwiger Str. 50&lt;/div&gt;&lt;div&gt;40233 D&amp;uuml;sseldorf&lt;/div&gt;&lt;div&gt;Nella &amp;amp; Mumelsmak&lt;/div&gt;</text>
+</log>
+
+
+<log id="164725">
+	<time>2007-05-07T00:00:00Z</time>
+	<geocacher>Tristao</geocacher>
+	<type>Found</type>
+	<text>http://maps.google.de/maps?ie=UTF8&amp;amp;hl=de&amp;amp;t=k&amp;amp;om=1&amp;amp;ll=50.342907,7.595265&amp;amp;spn=0.00328,0.008326&amp;amp;z=17&lt;br /&gt;
+&lt;br /&gt;
+Freibad in Koblenz am Rhein</text>
+</log>
+
+
+<log id="159329">
+	<time>2007-04-20T00:00:00Z</time>
+	<geocacher>Friedy1710</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Aggua Troisdorf&lt;/p&gt;&lt;p&gt;http://maps.google.de/?ie=UTF8&amp;amp;z=17&amp;amp;ll=50.808816,7.177827&amp;amp;spn=0.002712,0.007199&amp;amp;t=k&amp;amp;om=1&lt;/p&gt;&lt;p&gt;http://www.aggua.de&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="156131">
+	<time>2007-04-09T00:00:00Z</time>
+	<geocacher>DerBlaueReiter</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Das Sprungbecken in Erlangen&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.erlangen.de/de/Desktopdefault.aspx/tabid-235/92_read-3275/&quot;&gt;Portal der Stadt Erlangen - Freibad West&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://maps.google.com/maps?f=q&amp;hl=de&amp;q=N49+22.406++E11+11.528&amp;ie=UTF8&amp;om=1&amp;t=k&amp;ll=49.588092,10.979299&amp;spn=0.000175,0.000456&amp;z=21&quot;&gt;GoogleMaps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.72828" lon="9.91467">
+	<time>2007-08-25T00:00:00Z</time>
+	<name>OC3F8D</name>
+	<desc>Pfirsichduft</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=119330</url>
+	<urlname>Pfirsichduft</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Pfirsichduft</name>
+			<owner>Poosti</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Regular</container>
+			<difficulty>1.5</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Der Erstfinder wird den Namen verstehen, sofern er sich beeilt...(es liegt aber keiner drinne xD)</summary>
+			<description html="false">&lt;p&gt;Habe leider kein besseres Logbuch.&lt;/p&gt;&lt;p&gt;Ich werde bei Zeiten ein ordentliches hineinpacken. &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Der Baum ist gefallen, &lt;/p&gt;&lt;p&gt;ein Loch tut sich auf.&lt;/p&gt;&lt;p&gt;Denk dr&amp;uuml;ber nach, &lt;/p&gt;&lt;p&gt;dann kommst du schnell drauf.&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Inhalt:&lt;/p&gt;&lt;p&gt;Logbuch und Bleistift (bitte drin lassen!)&lt;/p&gt;&lt;p&gt;Flummi&lt;/p&gt;&lt;p&gt;Spielzeugauto&lt;/p&gt;&lt;p&gt;&amp;Uuml;-Ei&lt;/p&gt;&lt;p&gt;Kugelschreiber.&amp;nbsp;&lt;/p&gt;</description>
+			<hints>Der Baum ist gefallen und unter den Wurzeln liegt er ein bisschen gucken und etwas laub weg schieben. </hints>
+			<licence></licence>
+			<logs>
+				
+<log id="208121">
+	<time>2007-09-16T00:00:00Z</time>
+	<geocacher>Borke25</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;gut beschrieben und als erster super gefunden , aber der Duft l&amp;auml;&amp;szlig;t langsam nach &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;&lt;p&gt;in : ARAL - Anh&amp;auml;nger&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="53.74992" lon="9.81943">
+	<time>2007-10-28T00:00:00Z</time>
+	<name>OC46C2</name>
+	<desc>Himmelmoor - NordWest</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=121175</url>
+	<urlname>Himmelmoor - NordWest</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Himmelmoor - NordWest</name>
+			<owner>Skipper</owner>
+			<locale></locale>
+			<state></state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Small</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Ein kurzer Waldspaziergang</summary>
+			<description html="false">Das Himmelmoor liegt im Nordwesten der Stadt Quickborn. Es umfasst eine Fl&amp;auml;che von ca. 605 ha. Eine Fl&amp;auml;che von ca. 142 ha davon wird zur Gewinnung von Torf genutzt. &lt;br /&gt;&lt;br /&gt;Dieser Cache befindet sich auf halber Strecke eines Rundweg und ist so auch f&amp;uuml;r Kinder geeignet.&lt;br /&gt;&lt;br /&gt;Start ist der Parkplazt an der &amp;quot;Waldstrasse&amp;quot; bei N53&amp;deg;44.95 und E009&amp;deg;49.97 in Quickborn. Von dort aus geht es in Richtung des Waldeweges los. &lt;br /&gt;&lt;br /&gt;Hier ist festes Schuhwerk erforderlich, am besten Wanderstiefel. Der 4km Spaziergang dauert auch mit Kindern ca. 0:50h und ist idyllisch und abwechselungsreich. Teilweise f&amp;uuml;hrt er &amp;uuml;ber Waldboden, teilweise auf befestigten Wegen.&lt;br /&gt;&lt;br /&gt;</description>
+			<hints>Im Baumstumpf, 5 Meter südöstlich vom Hochsitz</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="247240">
+	<time>2007-12-31T00:00:00Z</time>
+	<geocacher>tms</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Da nun der F&amp;ouml;rster nicht da war, haben wir den Schatz schnell geborgen. Mit dem Hinweis ist es ja auch fast nicht nicht zu schaffen....&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Out: Taxi&lt;/p&gt;&lt;p&gt;In: Ferrari,silber&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="246464">
+	<time>2007-12-30T00:00:00Z</time>
+	<geocacher>Buddi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;sch&amp;ouml;nes Versteck, wenn man den Zuweg erst mal gefunden hat ;-)&lt;/p&gt;&lt;p&gt;No Trade&lt;/p&gt;&lt;p&gt;MfG J&amp;ouml;rg&lt;/p&gt;</text>
+</log>
+
+
+<log id="241349">
+	<time>2007-12-16T00:00:00Z</time>
+	<geocacher>tms</geocacher>
+	<type>Not Found</type>
+	<text>&lt;p&gt;Waren heute da, aber leider war der Ubpufvgm besetzt...da sind wirunverrichteter Dinge wieder abgezogen.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Aber sch&amp;ouml;ner Weg- lohnt sich.&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="225845">
+	<time>2007-11-02T00:00:00Z</time>
+	<geocacher>jehe</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Es war noch keiner vor uns da, wir waren die Ersten.&lt;/p&gt;&lt;p&gt;Gru&amp;szlig; jehe&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+</gpx>
